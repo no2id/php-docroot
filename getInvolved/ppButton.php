@@ -1,0 +1,24 @@
+<?php
+/*
+ * ppButton.php:
+ * The PayPal button form alone.
+ * 
+ * Copyright (c) 2006 NO2ID. All rights reserved.
+ * Email: chris@no2id.net
+ *
+ * $Id: ppButton.php,v 1.6 2007/12/09 11:34:22 ed Exp $
+ * 
+ */
+
+/* Actually there's something broken about the below -- when I click it it
+ * immediately shows an error, "please enter an amount greater than zero". This
+ * is unfriendly and should be fixed. */
+?>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<div style="border: 0; padding: 0; margin: 0;">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but04.gif" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" style="border: 0;" />
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+" />
+</div>
+</form>

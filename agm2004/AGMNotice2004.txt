@@ -1,0 +1,94 @@
+You are receiving this email as our records show that you are a Member of No2ID.
+
+-----------
+
+NOTICE is hereby given for the Annual General Meeting of the NO2ID Association.
+
+The Meeting shall take place on the Ninth day of OCTOBER, 2004 in the Upstairs
+Room at The Barley Mow, 104 Horseferry Rd, London, SW1P 2EE [Nearest Tubes:
+St. James's Park/Victoria
+
+
+Business will commence promptly at 14:00 and shall have concluded by 17:40
+
+The meeting shall:
+[a]	Receive reports from the National Co-Ordinator, the Treasurer (pro. tem.)
+    and Secretary (pro. tem.)
+[b]	Ratify the Association's Constitution
+[c]	Elect the Officers, in accordance with the Constitution (unless Amended,
+    those Officers are)
+	* Chair
+	* Vice-Chair
+	* Secretary
+	* Treasurer
+	* 2 Members elected by the Membership
+
+A copy of the Constitution is available from
+http://www.no2id.net/content/agm2004
+Amendments will be available from that URI before 01:30 2004-x-08
+
+
+^^^^^^^^^^^^^^^^^^^
+:::  Elections  :::
+^^^^^^^^^^^^^^^^^^^
+
+Elections shall be conducted after Ratification of the Constitution.
+In accordance with the terms thereof, and with the Authority of Clause O,
+all Nominations must be sent to the Secretary (pro. tem.) before 2004-ix-25.
+
+Nominations ~must~ include:
+* The name of the Candidate and for which Office;
+* A statement of the Candidate's willingness to stand for election
+* The name of the person proposing this candidate
+* The name of the person seconding the proposition
+
+All persons involved in the electoral process must be members of the Association
+
+Such information should be sent to the Secretary, adam@no2id.net
+
+Contested elections shall be conducted using STV as per the Electoral Reform
+Society's Definition.
+
+
+^^^^^^^^^^^^^^^^^^^
+:::  Amendments :::
+^^^^^^^^^^^^^^^^^^^
+
+Constitutional Amendments should be recevied by the Secretary, (pro. tem.)
+on or before 2004-x-4.
+
+It would be appreciated if the following advice were used:
+[adapted from http://www.privy-council.org.uk/output/Page46.asp]
+
+* Amendments should be listed in the order in which they occur in the
+  Constitution;
+* Please use one of these five commands: *"delete"*, *"insert"*, *"substitute"*,
+  *"re-number"* and *"re-letter"*;
+* Padding such as *"delete the word"* and *"in its entirety"* should not be used;
+* Re-numberings should be implemented as they arise. So, for example, a typical
+  sequence might be:
+    1. Delete clause 7
+    2. Re-number clause 8-17 as clauses 7-16.
+    3. In clause 10 as re-numbered, delete.....
+* Formulations such as *"wherever it occurs"* ~can~ be used to indicate
+  repeated changes, though amendments using this approach should list the
+  affected instances.
+* Care should be taken to ensure that amendments are unambiguous, particularly
+  where words occur more than once in the text being amended;
+* Please send amendments as plain text and NOT as attachments or messy HTML.
+
+
+^^^^^^^^^^^^^^^^^^^
+:::  Membership :::
+^^^^^^^^^^^^^^^^^^^
+
+Applicants for Membership should ensure funds have cleared by 2004-x-6.
+
+
+^^^^^^^^^^^^^^^^^^^
+:::  Enquiries  :::
+^^^^^^^^^^^^^^^^^^^
+
+For Secretarial matters, please contact: adam@no2id.net
+For Membership matters, including notification of payment: phil@no2id.net
+Press Enquiries: press@no2id.net

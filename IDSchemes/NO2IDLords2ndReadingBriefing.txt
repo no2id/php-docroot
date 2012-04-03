@@ -1,0 +1,79 @@
+﻿THE IDENTITY CARDS BILL
+
+NO2ID Supplementary Briefing for the House of Lords – October 2005
+
+This sets out the context and should be read in conjunction with the more detailed briefings we have previously issued on the substance of the Bill.  We will happily discuss any aspect of the question with peers individually on request.
+
+An electoral mandate—if any—is limited
+
+The Labour Party manifesto at the May 2005 did contain one vague sentence: "We will introduce ID cards, including biometric data like fingerprints, backed up by a national register and rolling out initially on a voluntary basis as people renew their passports."
+
+The context was immigration and border control, so anyone reading such a pledge would assume that immigration control was the purpose, not the revolution in government actually proposed.  The content is misleading if it is intended to apply to the Identity Cards Bill as presented to Parliament.  It suggests that the cards are the core and the point of the system, and that they will bear any biometric data.  The register is made to sound ancillary. And there is a promise that introduction will be voluntary.
+
+If a mandate subsists on this, it is for ID cards as the primary part of a system that is truly voluntary to begin with—which is at odds with the Bill before Parliament.  If it claims a mandate then the Government implicitly also claims (as the mandate doctrine developed before modern opinion polling) that there is popular support for the manifesto promise.  But it is far from clear that there is.  Popular support has steadily declined as the existence of the policy has become better known, even without detailed public discussion of the implications.
+
+Public opinion is not in favour
+
+The Government has insisted that “ID Cards” are overwhelmingly popular.  Indeed, the Home Office immediately before the Commons’ third reading purported to have ‘research’ showing 73% of the population in favour.  This is misleading.  The study concerned was far from a neutral poll, the method being to expose the sample to one side of the argument before asking a series of leading questions. 
+
+Support for the scheme in properly conducted neutral polls, however, has steadily fallen as public awareness of the scheme has risen, and a minority supports “ID cards”.  The Daily Telegraph / YouGov has asked the same clear neutral question (“Are you in favour of, or opposed to, the introduction of a system of national identity cards in Britain?”) in September 2003 and June 2005 finding respectively 78% and 45% in favour, and 15% and 42% definitely opposed.  Note that this is for “identity cards” not a National Identity Register.
+
+Despite high support for ID cards in September 2003, most people felt that the cards should only establish identity, and not carry a home address. The majority thought that cards should not result in data-sharing between Government departments nor between the Government and other agencies. However, 60% feared that the system would be abused, with fears around data security and inappropriate targeting of minorities.  There has been very little detailed research conducted since outside the Home Office’s Identity Cards Unit whose objectives are somewhat muddled from a market research point of view.
+Technical and practical doubts are increasing
+
+The consensus of expert opinion is that the Home Office’s determination to make the scheme a universal surveillance system1, and more general Government intent to restructure all public services around “identity management”2, has led them to choose the worst possible model for privacy, security or practicability.
+
+We would draw you attention to the LSE report on the scheme3, the preliminary version of which was provided to peers before the Second Reading at the Bill’s previous outing.  Public attention to that report has focussed on the costs implications, but it ranged much more widely over technical, legal and structural questions, and (despite a friendliness to the principle of an ID scheme which we do not share or endorse) damned the scheme on almost every ground.  For example:
+
+There was an overwhelming view expressed by stakeholders, experts and researchers involved in this Report, that the proposals are too complex, technically unsafe, overly prescriptive and lack a foundation of public trust and confidence. […]   There is no evidence to support the use of identity fraud as a justification for the current identity card model. Many of the claims about the prevalence of identity fraud are without foundation. (p23)
+ 
+Microsoft’s National Technology Officer for the UK, who has worked in government technology for a decade and is also generally favourable to the idea of an identity card, wrote in The Scotsman (18th October 2005): 
+
+Putting all of our personal identity information in a single place is something that no technologist would ever recommend: it leads to increased and unnecessary risk. And it’s poor security and poor privacy practice. Inappropriate technology design could provide new hi-tech ways of perpetrating massive identity fraud on a scale beyond anything we have seen before: the very problem the system was intended to prevent.
+
+The IT industry’s doubts tend to be expressed in private, however.  Industry magazine Silicon.com reported4 that:
+
+ “One biometrics supplier emailed us to say what a dog's dinner he thought the whole thing was - and then asked us not to name him as his company is involved in the project and hopes to bid for some of the ID cards work once it is passed into law.”   
+
+Parliamentary scrutiny has been nullified
+
+The Bill has been heavily whipped and guillotined throughout its progress.  There has been no more than superficial change since the draft legislation was presented in the summer of 2004.  The Government has even refused to change the title of the Bill to reflect its content.
+
+Serious criticisms by the Home Affairs Committee of the House of Commons, the Joint Committee on Human Rights (which has just reiterated its conclusions, and given some support to our own concerns about the punitive intent of the “civil penalties” in the Bill), and the House of Lords Committee on the Constitution (the latter made with even greater force on 24th October 2005) have been brushed aside. The Home Office has failed to engage with the arguments of its opponents, its response to questions being to reprise the same narrow set of poorly substantiated assertions.
+
+
+Worse, the core of the Bill is a set of powers enabling the Secretary of State to specify and alter almost every aspect of the scheme through Statutory Instruments.  If the Bill is enacted in anything like its present form, then parliament will lose the power to do more than take or leave what the Home Office demands.  No draft regulations have been presented, though, given work on the scheme is scheduled to begin immediately according to Home Office pre-procurement activities, they must exist.  It is hard to see this approach as anything other than reflex secretiveness, an attempt to avoid scrutiny.  
+
+Its answer to concern about the breadth of powers granted to the Home Secretary in the Bill appears to be, “That’s the way we do things.”5 
+
+Parliamentary and public presentation has been deceptive
+
+The Government has stuck to a claim, in the face of comprehensive criticism from bodies concerned with civil rights6, and near universal condemnation in the media, that this Bill is not controversial.  When the Bill ran out of time in the last session, Mr Hain pretended it was no matter to approve such a “common sense measure”7 in the ‘wash up’, later complaining that the Lords had blocked it.
+
+Tony Blair said at his weekly press conference on April 1st 2004: “The second point in relation to ID cards is that I think there is no longer a civil liberties objection to that in the vast majority of quarters.”   This was echoed by David Blunkett in select Committee Hearings, and by Charles Clarke in the closing commons stages this month.  It appears that the Government believes that repeating something often enough will make it true.
+
+The nominal consultation has amounted to a selling process.  Throughout, the Government has sought to focus public and backbench discussion on cards—and on sci-fi visions of biometrics as miraculous and foolproof—rather than data-collection and data-sharing, and it has continually shifted its ground over its motivation for the scheme.  Contrary to ministerial assertion, the statutory purposes of the scheme are not limiting or narrowly defined, but encompass anything any future government might conceivably wish to do.  The definitions of “public interest”, and “public authority” (s38) in particular are vastly broader than is usual (a point that appears to have evaded a number of commentators). 
+
+Purported concession to backbench concern in the Commons has been no such thing, merely cosmetic changes announced with fanfare.
+
+On cost—
+Charles Clarke’s announcement that the charge for “a stand-alone identity card” will be limited to £30 is non-binding and meaningless.  The Bill contains a vast range of potential charges to be set and altered administratively, not just a single fee for a new registration. (Taking a day off work to register is likely to cost most people more than a £30 nominal charge.)  Further, the Government cannot control the cost of the scheme by fiat, even if it can fiddle with the prices.  Charges in other areas would have to be raised to pay for any cap, and overruns borne from general taxation.  So everyone will pay significantly more than £30 for their registration: in charges, in taxes, or in benefits foregone.
+
+The Passport Office plan shows the running of the scheme (which it is not clear includes its development) as costing a little over £580 million a year in the first 10 years, which is roughly £10 a head per annum for every British resident in a period when the Government anticipates it will capture 80% of the population.  The “£30 card” will cost much, much more even on the most generous interpretation of Government figures.  Unless the Home Office cannot itself manage basic arithmetic, it insults the intelligence of the public. 
+
+Further, the costs to the public are not limited to the Home Office’s expenditure.  We will all also pay, directly or indirectly, for other departments, local authorities, and private sector organisations to use the system.  
+
+On Privacy—
+The Home Secretary produced a rabbit from his hat at the Commons report stage in the form of an amendment purporting to protect sensitive personal data stored in the Register. In fact it applies only to a series of reference numbers specified to be stored in the Register, which cannot in themselves be sensitive data.  The technical effect of this amendment is at best a nullity, at worst it confirms that sensitive data may elsewhere be stored in and disclosed from the Register pursuant to regulation to be decided.  We must conclude the amendment was introduced only to bamboozle backbenchers and others with privacy concerns.
+
+It is notable that there appears to be plenty of background work going on in relation to the scheme (expenses exceed £20 millions so far, according to parliamentary answers), but that Home Office documents are released only for political effect, to hustle the Government’s supporters along, rather than in a way that contributes to the debate.  As an example: stung by the LSE over costs questions, the Home Office commissioned KPMG to do an independent study of its budget for the scheme.  It has announced to anyone who will listen that that report concluded the Home Office’s basic assumptions were robust.  But it will not publish the KPMG report, and has promised only a Home Office-drafted executive summary. 
+
+Ministers also made a series of statements in the third reading debate that it is impossible to reconcile either with the content of the Bill or documents explaining the “benefits” of the scheme that have been issued by the Home Office.  For example:
+
+Andy Burnham MP:  Let me make one thing clear to my hon. Friend the Member for Birmingham, Selly Oak (Lynne Jones): it is not and never has been our intention to create an elaborate database that would hold detailed personal profiles for every individual. Rather, it is our intention to create a system that takes basic personal facts about each of us—name, address and date of birth—which are already held on databases, such as those for passports or the DVLA, and link them to a unique personal identifier, such as a fingerprint or an iris scan.” 8
+
+That is a perverse understanding of the Register, which is to include an audit trail of all transactions in which the system is used. If it is not a detailed personal profile of every individual, then it is the index to one. This disclaimer is not just inconsistent with the facts.  It is inconsistent with itself. 
+
+Envoi
+
+The Identity Cards Bill is openly intended to be the basis of a transformation in the relationship between the citizen and the state and of the interaction of the organs of state, too.  It is a constitutional bill granting powers unprecedented anywhere in the western world to the Home Office.  Yet it got only a sidelong reference in the Government’s manifesto, and serious debate has been evaded at every turn.  We submit that it is not only right, it is essential, that Your Lordships’ House give it much more thorough examination than it has yet had.
