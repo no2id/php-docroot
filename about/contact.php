@@ -23,7 +23,7 @@ require_once("../inc/pageHead.php");?>
 <div style="margin-left:25px">
 <ul>
     <li>James Baker, <a href="mailto:campaigns@no2id.net">Campaigns Manager</a>, +44 (0) 78 1760 5162</li> 
-    <li>Guy Herbert, <a href="mailto:general.secretary@no2id.net">General Secretary</a>, +44 (0) 79 7423 0839</li>
+    <li>Guy Herbert, <a href="mailto:general.secretary@no2id.net">General Secretary</a>, +44 (0) 79 5654 4308</li>
 </ul>
 </div>
 
