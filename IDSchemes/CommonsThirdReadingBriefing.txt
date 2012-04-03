@@ -1,0 +1,77 @@
+﻿NO2ID Briefing for Third Reading of the Identity Cards Bill
+
+NO2ID opposes the basic premise of the Identity Cards Bill. However, several amendments have been tabled that would significantly reduce its pernicious effects, and highlight the serious dangers inherent in it. 
+
+Voluntary or Compulsory?
+
+The Government has made it clear that its intention is to have a compulsory scheme eventually, but it has made much—not least in the Labour manifesto—of the fact that the scheme will initially be on a voluntary basis. 
+
+Not making any critical functions dependent on the Register until it had actually been shown to work satisfactorily for a while would reassure those who fear an IT fiasco or disaster.  
+
+Not forcing anyone to be registered, and not collecting data on anyone before either they volunteer or before formal compulsion is introduced, would reassure those who fear for liberty and privacy.
+
+Let us at least see the system working with genuine volunteers first.
+
+It is a prime feature of the system devised for pseudo-voluntary registration that individual needs for “designated documents” are to be used as a lever to force them to register.  This is called “voluntary” by the Home Office because it may be theoretically possible to live without one or another designated document, though one might have to change one’s lifestyle considerably.  It is closer to being extortion.
+
+The following amendment would make application for registration with a designated document continue to be the main route into the system, but allow for the possibility that someone might continue to be entitled to drive, travel, work in their established occupation, say, without registering, if they did have concerns about the system.   
+Mr Neil Gerrard
+John McDonnell
+Mr Robert N. Wareing
+Mr Michael Clapham
+Mrs Ann Cryer
+Ms Diane Abbott
+5
+Page     4,     line     42     [Clause     5],     leave out 'must' and insert 'may, if the applicant so chooses'. 
+
+Charging for the card:
+
+The Home Secretary’s recent announcement that a ‘standalone’ ID card would cost £30 (with no reduction in the £93 figure for a combined biometric passport and ID card package) may be intended to reassure Labour members and the public that the rising costs of the scheme are now capped. However, the price of the card itself has nothing to do with the overall cost of the system—over 5½ billion at least, without overruns—and for some UK residents, this £30 would, in fact, represent a price increase.
+
+When plans for ID cards were first laid out in November 2003 by the former Home Secretary, David Blunkett, he said that ID cards would be free for "all those who do not want or need a driving licence or passport". Is this no longer to be the case? If registration for an ID card—ultimately to be required for access to state benefits and services—is compulsory, then there can be no justification in charging the citizen for it. Such a charge would, in effect, be a tax on identity and would disproportionately hit those least able to afford it.
+
+The following amendment would make it impossible for the Government to charge any fee for registration for an ID Card.
+John McDonnell
+Mr David Hamilton
+Ms Katy Clark
+Mrs Linda Riordan
+Dr Ian Gibson
+Jeremy Corbyn
+19
+*Page     31,     line     26     [Clause     37],     leave out paragraph (c). 
+
+There are also a number of aspects of the scheme and powers created under the Bill which need to be challenged during debate. These include:
+
+Civic death by Secretary of State’s power to confiscate ID Card:
+
+Clause 13 creates a power for the Secretary of State to confiscate a citizen’s ID Card. 
+
+The Home Office’s declared ambition is to make ID card use essential in everyday life: to work, get and spend money, to get living accommodation, to travel, to obtain healthcare or other public services.  The government is also considering using ID cards to regulate the voting system [see draft Electoral Administration Bill].  To be left without a card would therefore effectively mean civic death.
+
+Summary deprivation of a passport places one under a disability, but a mild one.  Yet the same prerogative model seems to be being adopted and extended to what will become a fundamental tool of citizenship.  It is extremely undesirable therefore for a Home Office official to be able to cancel or withdraw a card and leave the individual concerned without one.
+
+It ought to be fundamental to the scheme that a recognised identity is a basic right.  The state has no right, either accidentally or on purpose, to make you an un-person.  The possibility is certainly at odds with what ministers have said in introducing the scheme: “that it will enable people to safeguard their identity”, according to Charles Clarke.  Reconstructing one’s identity in such a way that proving it is dependent on the state is scarcely a safeguard if the same rules give the state power to take away the means of proof, and with it claim to an identity at all.
+
+Third Party Access to the NIRN - Stopping the ‘Octopus’:
+
+The Government have made much of the fact that medical and financial records, and tax and benefits information will not be held on the National Identity Register (NIR) itself. However, one’s NIR number (sometimes called a NIRN) will be used routinely to index your records on other databases, making them easily accessible and the actual location of storage irrelevant.
+
+Aside from potential abuse of this by those with authorised access to the Register, significant danger attaches to the widespread use of the unique NIRN allocated to an individual, or indeed any of the numbers of section 4 of Schedule 1—which would be linked to a unique individual by the Register, and thus could stand as a proxy for the NIRN. Information about individuals verified by the Register would be easily cross-referenced in any database or set of databases that contained it, given any one of these formally defined and easily indexed numbers as a linking factor.  
+
+This is inescapably the object of the exercise for public authorities, but it will also be an irresistible lure to anyone compiling a database of individuals, customers or clients on any scale.  If Register-stored reference numbers and Register-verified data are used ubiquitously then any security offered by technical means or criminal sanctions for the Register will be irrelevant.  A much larger ‘meta-database’ composed of all the databases that can be so cross-referenced (tens of thousands of them) would inevitably be vastly less secure.
+
+Whatever the Home Office does to protect the Register, the meta-database will be penetrated by criminals, foreign powers, private investigators—the corrupt, the vengeful and the rapacious.  It will at the very least exacerbate identity theft, as already happens in the US with Social Security numbers.  The US Congress has recently sought to address this problem by means of a Senate Bill, the Personal Data Privacy And Security Act of 2005, which prohibits some uses of social security numbers.
+
+This will not make the problem go away, but if Parliament is resolved to have this centralised telephone directory of all information on everyone at the centre of the scheme, then we should make every attempt to stop the telephone numbers and the associated front door keys being handed out to, and copied by, all and sundry.
+
+Liability for loss incurred or fraud committed through theft of card or NIRN:
+
+It is not clear from the Bill whether liability would rest with the individual citizen, the defrauded party or the Secretary of State. Quite clearly, the card itself remains the property of the State but the only indications within the Bill arise from references to the accuracy of the data held. 
+
+Clause 3(3) provides for an agreement between the Secretary of State and the individual about information on that individual to be treated as conclusive and complete fact.  But there is no indication how we are supposed to cope with inaccuracy, nor how to cope with a disagreement or failure of complete meeting of minds between the Secretary of State and an individual. 
+
+Elsewhere in the Bill it is provided for the Secretary of State to obtain from elsewhere or supply to other people corrections of information that he believes inaccurate, but nowhere do we find out how the accuracy of information is to be determined, other than by the Secretary of State’s satisfaction with it.  It appears he can keep on demanding answers—under pain of penalty—till he gets the answer he likes. 
+
+Since information to be verified by the Register or supplied from it by the Secretary of State to third parties is intended to have profound effects on the lives of individuals, and those in contact with them, it is only fair and reasonable that he should bear the risk of any errors. 
+
+And in the case of a card being reported stolen or lost— again under pain of penalty—it is only fair and reasonable that he should bear any loss incurred after such a report. If ID cards are to be seen as a ‘gold standard’ of identity, they should carry with them fraud protection for the individual no less than that afforded by bank debit and credit cards.

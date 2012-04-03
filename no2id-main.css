@@ -1,0 +1,695 @@
+body {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:5px;
+	font-size:1em;
+	background:white;
+	color:#333;
+}
+
+A:link    { color: #990000; text-decoration: none; }
+A:visited { color: #990000; text-decoration: none; }
+A:active  { color: #990000; text-decoration: none; }
+A:hover   { background-color:#CCCCCC }
+#rightCol p a:visited { color: #990000 }
+#rightCol p a:link { color: #990000 }
+#rightCol p a:hover { background-color:#CCCCCC }
+#rightCol p a:active { color: #990000 }
+
+div {
+	padding:0;
+	margin:0;
+}
+img {
+		border: none;
+		margin:0;
+		padding:0;
+}
+
+.clearer {
+	width: 100%;
+	height: 10px;
+	font-size: 10px;
+	margin: 0 0 -32px 0;
+	padding: 0;
+}
+
+
+/* layout Rows */
+#contentRow {
+	position:relative;
+	left:0;
+	top:0;
+	margin-bottom:20px;
+	margin-top:0;
+	padding:0;
+}
+body>#contentRow {
+	/*margin-top:15px;*/
+}
+#footerRow {
+	position: relative;
+	background: url(images/mini-real-barcode.gif) repeat-x top;
+	//margin: 18px 150px 0 150px;
+        margin: 20px 300px 3px 150px;
+	padding-top: 15px;
+	clear: both;
+}
+/* Hides from IE5-mac \*/
+* html #footerRow {	height:1%;}
+/* End hide from IE5-mac */
+body>#footerRow {
+	padding-top:2px;
+}
+
+
+html body>div#headerRow {
+	margin-top:15px;
+}
+
+/* end of layout rows */
+
+/* layout columns */
+#leftCol {
+	position:absolute;
+	top:0;
+	width:145px;
+	z-index:1;
+	color:#333;
+}
+
+#mainCol {
+	position:relative;
+	top: 0;
+	padding: 5px 150px 5px 10px;
+	margin: 3px 150px 3px 150px;
+	z-index:0;
+	line-height:1.3em;
+}
+/* Hides from IE5-mac \*/
+* html #mainCol {height: 1%;position:relative;}
+/* End hide from IE5-mac */
+
+#mainCol.fullWidth {
+	margin-right:15px;
+}
+
+#rightCol {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 190px;
+	margin: 15px 15px 15px 10px;
+	/*color:#333;*/
+}
+
+
+/* end of layout columns */
+
+/* Header row elements */
+#mainLogo{
+	margin: 0 145px -1px 0;
+	border: gray 1px solid;
+	border-right: none;
+	height:105px;
+	padding-top:5px;
+}
+#logo {
+	margin:0;
+	float:left;	
+}
+#banner {
+	float:right;
+	margin:0px;
+}
+#mainLogo img {
+	border:none;
+}
+/* end of headerRow stuff */
+
+
+/*leftCol contents */
+#mainMenu ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 145px;
+	border-bottom: 1px solid gray;
+	font-size:1em;
+}
+
+#mainMenu ul li {
+	position:relative;
+}
+
+#mainMenu ul li ul {
+	/*position:absolute;
+	left:174px;
+	top:0;*/
+	display:none;
+}
+/*#mainMenu li:hover ul, #mainMenu li.over ul{
+	display:block;
+}*/
+
+#mainMenu ul li a {
+	display:block;
+	text-decoration:none;
+	color:#333;
+	padding:2px;
+	border:1px solid gray;
+	border-bottom:0;
+	font-size:smaller;
+	font-weight:bold;	
+	background:white;
+}
+
+/* Fix IE. Hide from IE Mac \*/
+* html #mainMenu ul li { float: left; }
+* html #mainMenu ul li a {	height: 1%;}
+/* End */
+
+#mainMenu ul li a:hover {
+	background-color:#DDD;
+}
+
+ul.currentSection {
+	position:relative !important;
+	left:0 !important;
+	display:block !important;
+	text-indent:6px !important;
+	font-size:0.8em;
+}
+*>ul.currentSection{
+	font-size:0.85em;
+}
+ul.currentSection li a{
+	border:none !important;
+	border-left: 1px solid gray !important;
+	border-right: 1px solid gray !important;
+}
+
+#signUp, #googleSearchBlock {
+	display:block;
+	background-color: #B0C4DE;
+	padding-left: 2px;
+}
+
+#googleSearchBlock {
+	padding: 5px 0 0 2px;
+	margin:0;
+	border:gray 1px solid;
+	border-top:0;
+	font-size: 0.8em;
+}
+
+#sidebar { display: block; padding-left: 2px; }
+
+/* Hides from IE5-mac \*/
+    * html #googleSearchBlock {width:145px;}
+/* End hide from IE5-mac */
+
+#signUp h2, #sidebar h2  {
+	font-size:1.2em;
+	margin:0;
+	padding:0;
+}
+#signUp div, #googleSearchBlock div, #inPageForm div, #sidebar div, #sbarform div {
+	padding-top:2px;
+	clear:both;
+}
+#signUp label, #googleSearchBlock label, #inPageForm label, #sidebar label, #sbarform label {
+	font-weight:bold;
+	float:left;
+	padding:0;
+	margin:0;
+	font-size:0.9em;
+}
+#inPageForm label, sbarform label {
+	width:45%;
+	text-align:right;
+}
+#signUp input, #googleSearchBlock input, #inPageForm input, #sidebar input, #sbarform input {
+	font-size:0.8em;
+	float:left;
+	margin-right:6px;
+	padding:0;
+}
+#signUp p, #sidebar p {
+	padding: 2px 3px 0 0;
+	margin: 0;
+	font-size: 0.9em;
+	line-height: 1.2em;
+}
+#signUp form, #googleSearchBlock form, #sidebar form {
+	padding:0;
+	margin:0;
+}
+
+#inPageForm, #sbarform { padding:0 5px; }
+
+#inPageForm { border : thin solid Maroon; }
+
+#resist {
+	display:block;
+	font-size: 1.0em;
+	background-color: #B0C4DE;
+	padding-left: 2px;
+	border:gray 1px solid;
+	border-top:0;
+}
+
+/* Hides from IE5-mac \*/
+* html #resist {width:175px;}
+/* End hide from IE5-mac */
+
+#resist h2  {
+        font-size:1.2em;
+        margin:0;
+        padding:0;
+}
+
+#resist div {
+	padding-top:2px;
+        clear:both;
+}
+
+#resist label {
+        font-weight:bold;
+        float:left;
+        padding:0;
+        margin:0;
+        font-size:1.0em;
+}
+
+#resist input, #resist textarea {
+        font-size:1.0em;
+        float:left;
+        margin-left:55px;
+        padding:0;
+}
+
+#resist p {
+        padding: 2px 3px 0 0;
+        margin: 0;
+        font-size: 0.9em;
+        line-height: 1.2em;
+}
+
+#resist form {
+        padding:0;
+        margin:0;
+}
+
+#affiliates{
+	border:1px solid gray;
+	margin-top:-1px;
+	text-align:center;
+}
+
+#affiliates h2 {
+	font-size:0.8em;
+	font-weight:800;
+	margin:0;
+	padding:0;
+	margin-left:3px;
+}
+
+/* end of leftCol contents */
+
+/* start of mainContent selectors */
+#mainCol{
+	font-size:0.9em;
+}
+
+#mainCol p{
+	font-family: Verdana, Arial, sans-serif;
+	font-size:0.9em;
+	margin:0 0 6px 6px;
+}
+
+#mainCol table {
+	border-spacing: 0;
+	border: solid thin gray;
+}
+
+#mainCol table td, #mainCol table th {
+	border: solid 1px gray;
+	margin:0;
+	padding:3px;
+}
+
+#mainCol th {
+	vertical-align: top;
+	text-align: left;
+}
+
+table.change {
+        border:0 !important; 
+	border-spacing: 0;
+}
+
+table.change, td.change, th.change {
+        border:0 !important;
+	margin:0;
+	padding:3px;
+}
+
+th.change {
+        border:0 !important;
+	vertical-align: top;
+	text-align: left;
+}
+
+#mainCol .supportersList {
+	float:left;
+}
+
+#mainCol .supportersList h2{
+	text-align:center;
+}
+
+#mainCol .supportersList li {
+	list-style: none;
+	padding:2px 0;
+}
+
+#mainContent h1 {
+	font-size: 1.3em;
+	padding: 5px 0 5px 0;
+	margin: 0;
+}
+
+#mainContent h2{
+	font-size:1.2em;
+	padding:5px 0 0 0;
+}
+
+#mainContent h3 {
+	font-size:1.1em;
+	margin:0;
+}
+
+#mainContent a.more {
+	font-size:smaller;
+}
+
+.row {
+	clear:both;
+	margin:0;
+	padding:0;
+}
+
+.col {
+	width: 48%;
+	float: left;
+	padding: 0 10px 6px 0;
+}
+
+.colRight {
+	float:right;
+	width:45%;
+	padding: 0 10px 10px 10px;
+}
+
+.col h2 {
+	padding:0;
+	margin:0;
+	text-align:center;
+}
+.col p {
+	padding:0;
+	margin:0;
+}
+
+#footer {
+	position:relative;
+	bottom:0;
+	width:auto;
+}
+/* end of mainContent selectors */
+
+/* rightCol contents */
+.sideBar {
+	border-left: 1px solid gray;
+	border-right: 1px solid gray;
+	border-bottom: 1px solid gray;
+	margin-bottom:-1px;
+	background-color:white;
+	padding-bottom: 10px;
+}
+#donate.sideBar { /* turns on bottom border of sidebar in IE */
+	margin-bottom:0;
+}
+/* hide from IE Mac */
+* html .sideBar{
+	height:1%;
+}
+/* hide off */
+
+caption {
+	text-align:left;
+	font-weight:bold;
+}
+
+.sideBar #wp-calendar {
+	width:100%;
+}
+
+.sideBar #wp-calendar caption {
+	text-align:center;
+	font-size:1.1em;
+	font-weight:bold;
+}
+
+.sideBar h1, .sideBar li h2, #wp-calendar caption  { /* this is header for a group of items - news, events etc */
+	padding: 1px 5px 1px 5px;
+	margin: 0;
+	font-size: 1em;
+	background-color: #B0C4DE;
+	border-top: gray solid 1px;
+	border-bottom: gray	 solid 1px;
+	color: black;
+	text-align:center;
+}
+
+.sideBar .item { /* an item of news, and event etc */
+	margin:0;
+	padding:0;
+}
+.sideBar .item p {
+	font-weight:lighter;
+	font-size:0.7em;
+}
+.sidebar .item h2 {
+	margin-left:0;
+	padding-left:0;
+}
+.sideBar h2 { /* title for an item of news etc */
+	margin:0;
+	padding:0 3px;
+	font-size:smaller;
+}
+.sideBar p{ /* paragraphs within items */
+	margin:4px 3px;
+	font-size:smaller;
+/*	font-weight:bold;*/
+}
+/*.sidebar p a:visited {
+	color:blue;
+}*/
+.sideBar p a.more { /* the link for a trimmed item description */
+	font-size:smaller;
+}
+.sideBar .action{
+	font-size:0.9em;
+	/*font-weight:bolder;*/
+}
+/* end of rightCol contents */
+
+/* footer contents */
+#footerRow ul#footerMenu {
+	list-style:none;
+}
+#footerRow ul#footerMenu li {
+	padding-right:10px;
+	float:right;
+}
+#footerRow ul#footerMenu li a {
+	font-size:smaller;
+	text-decoration:none;
+	color:black;
+}
+
+/* end of footer contents */
+
+/* text formatting for main section */
+.localGroup, .localGroup td, .localGroup th{
+	border:0 !important;
+}
+table.localGroup{
+	width:60%;
+	margin-left:10px;
+}
+
+tr.localgroup{
+	color:#993366;
+	font-weight:bold;
+}
+
+a:link.localgroup {
+	color:#993366;
+}
+
+.localGroup th {
+	font-weight:normal;
+	width:25%;
+}
+
+
+/* regional co-ords table stuff */
+.reglocalgroup, .reglocalgroup td, .reglocalgroup th{ 
+	border:0 !important; 
+}
+
+table.reglocalgroup{
+	width:40%; 
+	margin-left:0px;
+}
+
+tr.reglocalgroup{
+	color:#993366; 
+	text-align:left;
+}
+
+
+
+.localGroup caption{
+	text-align:left;
+	font-weight:bold;
+	font-size:1.1em;
+	padding-bottom:0;
+	margin-bottom:0;
+}
+
+.sideBar .item h2 {
+ padding-left:3px;
+}
+
+/* voting record table stuff */
+table.voting_record{
+	width:100%;
+	font-size:0.8em;
+}
+table.voting_record tr.for {
+	background-color:#FD3E5A;
+}
+table.voting_record tr.nonvoter {
+	background-color:#FFC140;
+}
+table.voting_record tr.against {
+	background-color:#76FE79;
+}
+
+dt {
+	font-weight:600;
+	font-style:oblique;
+}
+
+.testimony p img{
+	width:100px;
+	height:124px;
+	float:left;
+	margin-right:5px;
+}
+
+.testimony p{
+	clear:both;
+	padding:5px 0;
+}
+
+h1 {
+ clear:both;
+}
+
+dd {
+	margin-bottom:10px;
+	margin-left:0;
+}
+
+.rss {
+	font-size:10px;
+	background-color:#CC6633;
+	color:white;
+	padding:0 1px;
+	float:right;
+}
+.rss a{
+	color:white;
+	text-decoration:none;
+}
+.rss a:hover{
+	color:red;
+	background-color:#CC6633;
+}
+
+
+/* Pledger stuff */
+
+.pledges {
+	clear:both;
+	border:solid #ccc 2px;
+	font-size:0.85em;
+	line-height:1.2em;
+	padding:0 5px;
+	margin:10px 0;
+	position:relative;
+}
+
+/* table version - grr!!!*/
+
+table.pledgeTable {
+	border:none !important;
+	clear:both;
+	font-size:0.9em;
+	line-height:1.2em;
+}
+
+td.pledger{
+	border:none !important;
+	width:50%;
+	margin:5px;
+	background:#ccc;
+	border-left:white solid 5px !important;
+	border-right:white solid 5px !important;
+	vertical-align:top;
+}
+
+td.pledger img{
+	float:left;
+	margin:5px;
+}
+
+
+/* End of pledger stuff */
+
+
+.involvement {
+	margin:5px;
+	padding:0 5px;
+	width:45%;
+	border : thin solid Maroon;
+}
+
+blockquote {
+	border-left:double 5px #ccc;
+	padding-left:10px;
+}
+
+
+.feedburnerFeedBlock ul, #takeAction ul {margin: 0;padding:0;margin-left:0.7em; }
+.feedburnerFeedBlock ul li {margin:0;padding:0;font-size:0.8em;list-style-type:none; margin-bottom:8px}
+#takeAction li {margin:0;padding:0;font-size:0.8em;list-style-type:none;list-style-image:url(/images/cross.gif); margin-bottom:5px;}
+#takeAction ul {margin-top:0.5em;margin-left:1.5em}
+.feedTitle{font-size:12px !important;font-variant:small-caps;font-weight:bold !important;}
+code { text-align:center; 

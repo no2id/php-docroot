@@ -1,0 +1,22 @@
+@import url(no2id-main.css);
+
+#leftCol{
+	display:none !important;
+}
+
+a {
+	color:black;
+	text-decoration:none;
+}
+
+.more{
+	display:none;
+}
+
+#mainCol{
+	margin-left:0;
+}
+
+#banner {
+	display:none;
+}

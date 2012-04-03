@@ -1,0 +1,83 @@
+﻿THE IDENTITY CARDS BILL
+
+NO2ID Supplementary Briefing for the House of Lords – Report Stage
+
+You will have received our previous briefings and will be aware that NO2ID holds that the Identity Cards Bill is a profound constitutional change creating enormous new powers—and indeed new sorts of powers—for the state over the individual, and for the Home Office in particular.  We submit that, since it has been misleadingly sold by the government to the people as a minor administrative matter, your lordships would be fully justified in rejecting the Bill entirely, and still hope that you will do so at Third Reading.
+
+However, since there is a possibility that the Identity Cards Bill may become law, we request that you also give consideration how best to ameliorate its dangers.  To that end, this briefing considers and makes our recommendations concerning the published amendments at Report.   As ever, we are happy to discuss any aspect of the legislation or the broader question with you individually on request.
+
+Government amendments
+
+Our view is the unsurprising one that (except for some minor drafting amendments) these do not in general improve the Bill.  We would draw your attention particularly to:
+
+Amendment 7 in the marshalled list (together with related amendments 25, 26, 27, 28).  This introduces an unwelcome further element of extraterritoriality into the system (the other is in the definition of ‘crime’), by potentially requiring the disclosure of, and documentation of, overseas residences and residence history.  It creates potentially great inconvenience (and in the event of the information getting into the wrong hands, danger) for expatriates, those with properties abroad, and those entering Britain from overseas with reason to fear tracing from their former homelands. 
+
+Amendment 18* (and the related 21*, 22*, 23*) may be expected to be presented as limiting the storage of information.  However, we believe it to be vacuous.  Any information might be entered on the register under this rubric, and information entered on the register will never be expunged as inconsistent with the statutory purposes, because the definition of the statutory purposes is so broad as to encompass any use of information whatsoever that might be desired by any future administration.
+
+Amendment 24 clarifies the procedure, but we note restricts the oversight of parliament.  The Secretary of State might now modify information to be held on the register or produce regulations for information that might be requested by an individual to be recorded, subject only to negative procedure.  We have previously noted that there is no provision for an individual to have such “voluntarily” provided information deleted from the register, and are concerned that 3(2) is open to abuse by governmental bodies and designated document authorities requesting such disclosures.  
+
+Amendment 35 significantly broadens the range of documents that might be ‘designated’ for the purpose of compelling individuals to register.  
+
+Amendment 39 (and 56 and 60) amount to further vacuous ‘conciliation’.  At best this might permit a booking system where the individual were to choose from times and places specified by the authorities.  But attendance may still be arbitrarily required as specified by an authority which is under no duty, and has little incentive in practice, to be reasonable. 
+
+Other Amendments
+
+Though of course we welcome all amendments that reduce the scope of this thoroughly bad scheme, there are several that we wish to highlight as particularly important.  In amending the Bill, please consider that the Government should be held to the impression it has given to the public about this legislation in its election manifesto and elsewhere, viz — that it will be introduced on a voluntary basis, create benefits in relation to specific problems, and not present a danger to the individual.
+---------
+
+Compulsion:  A truly voluntary introductory process could be made by amending this Bill, but compulsion, direct and indirect, is written into it in numerous places.  It is therefore hard to rank any amendments attacking compulsion since several will have to pass to be effective.
+ 
+Amendment 15 would prevent the Secretary of State from arbitrarily adding information about British citizens to the Register without an application or permission from the persons concerned.
+
+Amendment 34 seeks to stop people being forced onto the register by the state cancelling their documents and compelling them to make a reapplication with a registration included.  This is a broader approach to the problem of the sort of powers wisely deleted by peers from the Road Safety Bill recently.
+
+Amendment 35 reduces the range of documents that might be ‘designated’ so that only 
+
+Amendment 38 and its companion Amendment 54 are essential since they remove the covert compulsion designed into the ‘designated documents’ procedure.  With these amendments National Registration may remain voluntary for most people until parliament is duly consulted about compulsion.  Without them a de facto compulsion regime may be brought very rapidly into effect for most people, misrepresented as ‘voluntary’.
+
+Amendment 46 removes the power of the secretary of State to make orders specifying categories of people that are to be compelled to register, so removes one source of compulsion without primary legislation.
+
+Amendments 47-51 apply the more rigorous procedure designed for ordering groups of individuals to register to the designation of documents, which is logical since a designated document is merely a proxy by which a group of individuals—those who need to have such a document—are to be compelled to register. 
+---------
+
+Security:  The centralised register and data-sharing provisions built into the Bill make it very hard to provide security for individuals against abuse and misuse of the data.  To recall the words of Jerry Fishenden of Microsoft to The Scotsman:
+
+Putting all of our personal identity information in a single place is something that no technologist would ever recommend: it leads to increased and unnecessary risk. And it’s poor security and poor privacy practice. Inappropriate technology design could provide new hi-tech ways of perpetrating massive identity fraud on a scale beyond anything we have seen before: the very problem the system was intended to prevent.
+
+However there are amendments that attempt to improve the situation marginally, and they are recommended:
+
+Amendment 33 seeks to change the way in which the ‘audit trail’ in the register will record uses of the system to the benefit of individual privacy and civil liberty.  If it is accepted then the audit trail would no longer trace individuals in their everyday lives by recording voluntary use of identity verification, but it would on the other hand provide a record for the individual of occasions on which the Home Office provided his details to third parties without his knowledge. 
+
+Amendment 67 is an important example of a provision that helps prevent the leakage of information from the register into other databases and its use for purposes outside those claimed for the Bill.
+
+Amendment 71 supports an important principle about the use of personal data.  A person ought to be entitled to know who has been told what about him.  The subclause amended presumes the inerrancy of the Secretary of State’s information, but it seems to us quite likely that either the register itself or information extracted from it will frequently be wrong, and so it is very important that an individual should know and be able to challenge any falsehoods spread through the system about him.  
+
+Amendment 76 seeks to impose a rational proportionality on the uses to which the scheme is put, and correct some institutional defects that would in practice prevent individuals from obtaining the proper benefit of data-protection law in relation to the information held on the register. 
+
+Amendment 84 adds an important branch to the Commissioner’s function, the ombudsman role that many people hearing there was a Commissioner would assume was his principal function, and whose omission so far is strange (at least). 
+
+Amendment 101 addresses the possibility of NIR numbers being used to create a meta-database, as we have called it, in which the number acts as cross reference between any and all systems in which it is used, permitting vast amounts of information to be retrieved about any individual without any direct use of the register.
+---------
+
+Scope of Powers:  As noted above, the scope of the statutory purposes is unlimited.  Other definitions are broad, and there is extraordinary power granted to the secretary of state to alter almost every aspect of the scheme by regulation.  Key amendments seeking to restrain this plenipotentiary quality and make the Bill address real benefits directly are:
+
+Amendment 1*, with 121*, 122*, 123*, which would make operation of the Bill depend on an adequate study of costs and benefits being presented to parliament, rather than rely on vague assertions on benefits and less equivocal evasions on costs that are all that have been so far provided by the Home Office. 
+
+Amendment 6 replaces a catch all provision that makes any official expediency the criterion of statutory purpose, with what has been sold to the public: the prevention of fraud. 
+
+Amendment 85 and 86 in particular free the Commissioner’s reports from the control of the Secretary of State and make him responsible to parliament.
+
+There are several amendments to safeguard the neutrality and effectiveness of the commissioner.  Amendments 87-92 restrain the Secretary of State from censoring the commissioner’s report in ways that might protect the administration of the scheme from proper parliamentary scrutiny.
+
+Amendment 93 would provide for a public body exercising technical oversight to keep watch on the protection of privacy, civil liberty and the fitness of the scheme for its purposes.  There is otherwise no mechanism for identity registration policy to be examined by persons outside the Home Office which has been very secretive about the details of its plans so far.
+
+Amendment 123 also tackles the secretiveness of the preparations for the scheme, by providing for adequate financial information to be submitted to parliament, which hitherto has been withheld by the Home Office.  Despite the length of the consultation process boasted of by Baroness Amos in previous debates, the question of costs has been met by bland and (to the financially astute) wholly unconvincing assurances from the Government at the same time as its headline-figure estimates for the Home Office internal running costs over the first 10 years have risen (in two years) from £1.3 Billion, to £3.1 Billion, to £5.8 Billion—all for a scheme in which no substantive structural change has been made (at least not publicly).  We urge that parliament should not agree to buy a pig in a poke.
+
+
+If you would like to discuss any aspect of the Bill further please contact 
+Phil Booth, National Coordinator (07974 230 839) <national.coordinator@no2id.net>
+Or Andrew Holden (07799 018 943)
+
+
+
+NO2ID:  Box 412, 78 Marylebone High Street:  LONDON W1U 5AP:  020 7340 6077 
