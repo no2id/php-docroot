@@ -60,7 +60,7 @@ require_once("../../inc/pageHead.php");?>
 <p>For further information, or for immediate or future interview, please contact 
 <ul>
     <li>James Baker, <a href="mailto:campaigns@no2id.net">Campaigns</a> Manager &#8211; 078 1760 5162</li>
-    <li>Guy Herbert, <a href="mailto:general.secretary@no2id.net">General Secretary</a> &#8211; 079 7423 0839</li>
+    <li>Guy Herbert, <a href="mailto:general.secretary@no2id.net">General Secretary</a> &#8211; 079 5654 4308</li>
 </ul>
 <br />
 </p>
