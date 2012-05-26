@@ -32,7 +32,7 @@
 <div id="footerRow"> 
     <br />
     <p style="font-size:smaller">This website is &copy; NO2ID <?php echo date('Y') ?>
-        <br/><a href="/content/privacy">Our privacy policy</a></p>
+        <br/><a href="/privacy-policy">Our privacy policy</a></p>
     <p style="font-size:smaller">Hosting generously provided by <a
        href="http://www.mythic-beasts.com">Mythic Beasts</a><br /> 
        <a href="http://www.mythic-beasts.com">
