@@ -29,7 +29,7 @@ require_once('inc/pageHead.php');?>
     <p><strong>Use of material appearing on no2id.net</strong><br />In this document, &quot;material&quot; means material without limitation, i.e. text, video, graphics and sound material, published on no2id.net, whether copyrighted by a third party or no2id.net.</p>
         <p>You must not download or print the material, or extracts from it, in a systematic or regular manner for commercial purposes.</p>
         <p>You must not reproduce any part of no2id.net or the material or transmit it to or store it in any other website or disseminate any part of the material in any other form, unless no2id.net has indicated that you may do so.</p>
-        <p>no2id.net may be prepared to allow you to distribute or reproduce parts of no2id.net or the material. If you wish to apply for permission to do so, please email <a href="mailto:info@no2id.net">info@no2id.net</a>.</p>
+        <p>no2id.net may be prepared to allow you to distribute or reproduce parts of no2id.net or the material. If you wish to apply for permission to do so, please email <a href="mailto:general.secretary@no2id.net">general.secretary@no2id.net</a>.</p>
         
     <p><strong>Disclaimer of liability</strong><br />To the extent permitted at law, no2id.net does not accept any responsibility for any statement in the material. no2id.net will not be liable for any loss caused as a result of your doing, or not doing, anything as a result of viewing, reading or listening to the material or any part of it (except for death or personal injury attributable to no2id.net's negligence/to the extent permitted at law).</p>
         <p>You can access other sites via links from no2id.net. These sites are not under no2id.net's control and no2id.net is not responsible in any way for any of their contents.</p>
@@ -49,7 +49,7 @@ require_once('inc/pageHead.php');?>
         <li>you agree to indemnify no2id.net in full and permanently against any third party liabilities, claims, costs, loss or damage no2id.net incurs as a result of publishing material you submit to no2id.net, including consequential losses.</li>
       </ul>
 
-    <p><strong>Data protection</strong><br />If you have indicated that you wish to receive email updates from no2id.net, your personal details will be included in a database compiled for these purposes. If you subsequently change you mind, you should notify us at <a href="mailto:info@obv.org.uk">info@no2id.net</a>. As soon after this as is reasonably practicable, no2id.net will remove your name from the relevant database.</p>
+    <p><strong>Data protection</strong><br />If you have indicated that you wish to receive email updates from no2id.net, your personal details will be included in a database compiled for these purposes. If you subsequently change you mind, you should notify us at <a href="mailto:general.secretary@no2id.net">general.secretary@no2id.net</a>. As soon after this as is reasonably practicable, no2id.net will remove your name from the relevant database.</p>
 
     <p><strong>Variations</strong><br />These terms may be varied from time to time. Details of variations will be posted here.</p>
 
