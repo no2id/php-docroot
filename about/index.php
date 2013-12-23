@@ -20,36 +20,83 @@ require_once('../inc/pageHead.php');?>
 <div class="pledges clearfix">
 <h1>Who else says NO?</h1>
 <p> Before the Identity Cards Act was even passed, over 12,000 people pledged to refuse to sign up to the government's ID Scheme and donate to towards a legal fund to fight the Act and protect those the government might prosecute for refusal to comply.</p>
+
 <table class="pledgeTable">
-<tr>
-	<?php
-	require_once('../inc/dbConn.php');
-        /* Want to show one man and one woman. */
-        $ary = rand(0, 1) ? array('male', 'female') : array('female', 'male');
-        foreach ($ary as $sex) {
-	        $sql = "SELECT * FROM pledger WHERE sex = '$sex' and display = 1 ORDER BY RAND() LIMIT 1";
-	        $pledger_2 = mysql_query($sql);
-	        $pledger = mysql_fetch_assoc($pledger_2);
-		$name = str_replace(' ','&nbsp;',htmlentities($pledger['name']));
-		$description = htmlentities($pledger['description']);
-		$location = htmlentities($pledger['location']);
-		$quote = htmlentities($pledger['web_quote']);
-		echo "<td class=\"pledger\">\n";
-		echo "\t<img src=\"../images/pledge-photos/{$pledger['photo']}\" alt=\"$name\" width=\"80\" height=\"96\"/>\n\t<p>";
-		echo "\t&quot;$quote&quot; ";
-		echo "<strong>$name";
-		if ($pledger['description'] != ''){
-			echo ", $description";
-		}
-		if ($pledger['location'] != ''){
-			echo ", $location";
-		}
-		echo "</strong>";
-		echo "</p></td>\n";
-        }
-	?>
-</tr>
+    <tr>
+	<td class="pledger">
+	    <img src="../images/pledge-photos/DrAndrewAAdams.jpg" alt="Dr&nbsp;Andrew&nbsp;A.&nbsp;Adams" width="80" height="96"/>
+	    <p>&quot;I do not believe ID cards will achieve any of the aims stated for them by the governm&quot; <strong>Dr&nbsp;Andrew&nbsp;A.&nbsp;Adams</strong></p>
+        </td>
+
+        <td class="pledger">
+	    <img src="../images/pledge-photos/DerekBennett.jpg" alt="Derek&nbsp;Bennett" width="80" height="96"/>
+	    <p>&quot;If I have nothing to hide why should I be treated like a 'tagged' criminal?&quot; <strong>Derek&nbsp;Bennett</strong></p>
+        </td>
+    </tr>
+
+    <tr>
+        <td class="pledger">
+            <img src="../images/pledge-photos/StuartGraham.jpg" alt="Stuart&nbsp;Graham" width="80" height="96"/>
+            <p>&quot;ID Cards will not achieve the Governments stated aims and will cost the country billi&quot; <strong>Stuart&nbsp;Graham</strong></p>
+        </td>
+
+        <td class="pledger">
+            <img src="../images/pledge-photos/ChristineGilmore.jpg" alt="Christine&nbsp;Gilmore" width="80" height="96"/>
+            <p> &quot;NO2ID means living free. Government should work for us, not against us.&quot; <strong>Christine&nbsp;Gilmore</strong></p>
+        </td>
+    </tr>
+
+    <tr>
+        <td class="pledger">
+        <img src="../images/pledge-photos/DanLawrence.jpg" alt="Dan&nbsp;Lawrance" width="80" height="96"/>
+        <p> &quot;I don't see how it can help against terrorism. All the 9/11 terrorists had valid ID c&quot; <strong>Dan&nbsp;Lawrance, IT Manager, York</strong></p></td>
+
+        <td class="pledger">
+            <img src="../images/pledge-photos/LindaDeutsch.jpg" alt="Linda&nbsp;Deutsch" width="80" height="96"/>
+            <p> &quot;I protest against being tagged like an animal for slaughter. I protest against having&quot; <strong>Linda&nbsp;Deutsch</strong></p></td>
+    </tr>
+
+    <tr>
+        <td class="pledger">
+        <img src="../images/pledge-photos/EmmaEngland.jpg" alt="Emma&nbsp;England" width="80" height="96"/>
+        <p> &quot;I am not a machine, I cannot be digitised, I say NO2ID.&quot; <strong>Emma&nbsp;England</strong></p></td>
+
+        <td class="pledger">
+        <img src="../images/pledge-photos/LaraLawson.jpg" alt="Lara&nbsp;Lawson" width="80" height="96"/>
+        <p> &quot;I fear ID cards will be exploited by the State to persecute and further discriminate &quot; <strong>Lara&nbsp;Lawson</strong></p></td>
+    </tr>
+
+    <tr>
+        <td class="pledger">
+        <img src="../images/pledge-photos/KirstyMcKinlay.jpg" alt="Kirsty&nbsp;McKinlay" width="80" height="96"/>
+        <p> &quot;At a deeply primal level I object to being monitored by a controlling government.&quot; <strong>Kirsty&nbsp;McKinlay</strong></p></td>
+
+        <td class="pledger">
+        <img src="../images/pledge-photos/BillBurman.jpg" alt="Bill&nbsp;Burman" width="80" height="96"/>
+        <p> &quot;The ID card scheme is a completely unworkable concept that will promote wholesale ide&quot; <strong>Bill&nbsp;Burman, Hertfordshire</strong></p></td>
+    </tr>
+
+    <tr>
+    <td class="pledger">
+        <img src="../images/pledge-photos/PeterTatchell.jpg" alt="Peter&nbsp;Tatchell" width="80" height="96"/>
+        <p> &quot;ID cards are a grotesque waste of public money. The &quot; <strong>Peter&nbsp;Tatchell, Human rights campaigner, London</strong></p></td>
+
+    <td class="pledger">
+        <img src="../images/pledge-photos/MichaelLord.jpg" alt="Michael&nbsp;Lord" width="80" height="96"/>
+        <p> &quot;Even after the terrible Madrid train bombing, the Spanish would reject such a system.&quot; <strong>Michael&nbsp;Lord, Sowerby Bridge, West Yorkshire</strong></p></td>
+    </tr>
+
+    <tr>
+        <td class="pledger">
+        <img src="../images/pledge-photos/DuncanHothersall.jpg" alt="Duncan&nbsp;Hothersall" width="80" height="96"/>
+        <p> &quot;I'm convinced that the government's plans for biometric ID are based on bad science a&quot; <strong>Duncan&nbsp;Hothersall, Edinburgh</strong></p></td>
+
+        <td class="pledger">
+            <img src="../images/pledge-photos/LisaGatherer.jpg" alt="Lisa&nbsp;Gatherer" width="80" height="96"/>
+            <p> &quot;Government should exist to protect the weak from those who violate the laws of the la&quot; <strong>Lisa&nbsp;Gatherer</strong></p></td>
+    </tr>
 </table>
+
 <p style="clear:both;text-align:center;">Help resist ID cards: 
    <a href="/join">join</a>, or 
    <a href="/donate">donate</a> to NO2ID</p>
@@ -80,5 +127,4 @@ require_once('../inc/pageHead.php');?>
 
 <p>We have been supported by grants from the Joseph Rowntree Reform Trust Ltd and other individual and corporate donors — as well as by membership fees and merchandise sales.</p>
 
-<br>
 <?php require_once("../inc/pageFooter.php");?>
