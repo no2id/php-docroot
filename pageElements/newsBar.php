@@ -22,6 +22,13 @@
 	</p>
 </div>
 
+<div id="twitters" class="sideBar">
+    <a href="https://twitter.com/no2id" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @no2id</a>
+    <script>!function(d,s,id){var
+    js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,
+    'script', 'twitter-wjs');</script>
+</div>
+
 <div id="takeAction" class="sideBar"> 
   <h1>Take Action</h1>
   <ul>
@@ -43,30 +50,28 @@
   <h1>Campaign News</h1>
   
   <div class="item">
-       <script src="http://feeds2.feedburner.com/no2id-newsblog?format=sigpro" type="text/javascript" ></script>
+       <script src="http://feeds.feedburner.com/no2idnewsblog?format=sigpro" type="text/javascript" ></script>
        <noscript>
-  	     <p>Subscribe to RSS headline updates from: 
-	         <a href="http://feeds2.feedburner.com/no2id-newsblog"></a>
-	         <br/>Powered by FeedBurner
-	     </p>
+  	    <p>Subscribe to RSS headline updates from: 
+	    <a href="http://feeds.feedburner.com/no2idnewsblog"></a>
+	    <br/>Powered by FeedBurner</p>
        </noscript>
   </div>
 
   <div class="item">
-	<script src="http://feeds2.feedburner.com/No2idNewsletters?format=sigpro" type="text/javascript"></script>
-	<noscript>
-	    <p>Subscribe to RSS headline updates from: 
-	        <a href="http://feeds2.feedburner.com/No2idNewsletters"></a>
-		<br/>Powered by FeedBurner
-	    </p>
-	</noscript>
+    <script src="http://feeds.feedburner.com/no2idnewsletter?format=sigpro" type="text/javascript" ></script>
+    <noscript>
+        <p>Subscribe to RSS headline updates from:
+        <a href="http://feeds.feedburner.com/no2idnewsletter"></a>
+        <br/>Powered by FeedBurner</p>
+    </noscript>
   </div>
 
   <div class="item">
-  	<script src="http://feeds2.feedburner.com/No2idPressReleases?format=sigpro" type="text/javascript" ></script>
+  	<script src="http://feeds.feedburner.com/no2idpressreleases?format=sigpro" type="text/javascript" ></script>
 	<noscript>
 	    <p>Subscribe to RSS headline updates from: 
-	    	<a href="http://feeds2.feedburner.com/No2idPressReleases"></a>
+	    	<a href="http://feeds.feedburner.com/no2idpressreleases"></a>
 		<br/>Powered by FeedBurner
 	    </p>
 	</noscript>
