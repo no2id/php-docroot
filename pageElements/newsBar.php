@@ -30,7 +30,6 @@
       <li><a href="/donate"><strong>Donate</strong></a></li>
       <li><a href="/localgroups/">Join a <strong>local group</strong></a></li>
       <li><a href="/resources/motions/"><strong>Lobby</strong> your council</a></li>
-      <li><a href="/get-involved/id-centres">Find your nearest <strong>interrogation</strong> centre</a></li>
   </ul>
 </div>
 
