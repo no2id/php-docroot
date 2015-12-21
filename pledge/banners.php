@@ -6,7 +6,7 @@ require_once("inc/pageHead.php");?>
 
   <h1 style="clear:both;" align="center">Spread the word</h1><br />
   
-  <p style="clear:both; font-size:smaller;" align="center"><a href="index.php">PLEDGE HOMEPAGE</a> &#124; <a href="certificate.php">DOWNLOAD CERTIFICATE</a> &#124; <a href="http://www.no2id.net/getInvolved/join.php">JOIN NO2ID</a> &#124; <a href="how.php">HOW IT WORKS</a></p>
+  <p style="clear:both; font-size:smaller;" align="center"><a href="index.php">PLEDGE HOMEPAGE</a> &#124; <a href="certificate.php">DOWNLOAD CERTIFICATE</a> &#124; <a href="https://www.no2id.net/getInvolved/join.php">JOIN NO2ID</a> &#124; <a href="how.php">HOW IT WORKS</a></p>
 
   <br />
   
@@ -18,7 +18,7 @@ require_once("inc/pageHead.php");?>
         <tbody>
           <tr> 
             <td><img src="/images/b/NO2ID_Pledge_banner1a.jpg" height="90" width="351"></td>
-            <td><textarea name="textarea1" cols="30" rows="5" readonly="readonly">&lt;a href="http://www.no2id.net/pledge/"&gt;&lt;img src="http://www.no2id.net/images/b/NO2ID_Pledge_banner1a.jpg" alt="The NO2ID Pledge - have YOU made it yet?" style="width:351px;height:90px;border:0" /&gt;&lt;/a&gt;</textarea></td>
+            <td><textarea name="textarea1" cols="30" rows="5" readonly="readonly">&lt;a href="https://www.no2id.net/pledge/"&gt;&lt;img src="https://www.no2id.net/images/b/NO2ID_Pledge_banner1a.jpg" alt="The NO2ID Pledge - have YOU made it yet?" style="width:351px;height:90px;border:0" /&gt;&lt;/a&gt;</textarea></td>
           </tr>
 		  
           <tr> 
@@ -28,7 +28,7 @@ require_once("inc/pageHead.php");?>
 		  
           <tr> 
             <td><img src="/images/b/NO2ID_Pledge_banner1b.jpg" height="60" width="234"></td>
-            <td><textarea name="textarea2" cols="30" rows="5" readonly="readonly">&lt;a href="http://www.no2id.net/pledge/"&gt;&lt;img src="http://www.no2id.net/images/b/NO2ID_Pledge_banner1b.jpg" alt="The NO2ID Pledge - have YOU made it yet?" style="width:234;height:60px;border:0;"/&gt;&lt;/a&gt;</textarea></td>
+            <td><textarea name="textarea2" cols="30" rows="5" readonly="readonly">&lt;a href="https://www.no2id.net/pledge/"&gt;&lt;img src="https://www.no2id.net/images/b/NO2ID_Pledge_banner1b.jpg" alt="The NO2ID Pledge - have YOU made it yet?" style="width:234;height:60px;border:0;"/&gt;&lt;/a&gt;</textarea></td>
           </tr>
 		  
           <tr> 
@@ -38,7 +38,7 @@ require_once("inc/pageHead.php");?>
 		  
           <tr> 
             <td><img src="/images/b/NO2ID_Pledge_banner2a.jpg" height="90" width="351"></td>
-            <td><textarea name="textarea3" cols="30" rows="5" readonly="readonly">&lt;a href="http://www.no2id.net/pledge/"&gt;&lt;img src="http://www.no2id.net/images/b/NO2ID_Pledge_banner2a.jpg" alt="The NO2ID Pledge - have YOU made it yet?" style="width:351px;height:90px;border:0" /&gt;&lt;/a&gt;</textarea></td>
+            <td><textarea name="textarea3" cols="30" rows="5" readonly="readonly">&lt;a href="https://www.no2id.net/pledge/"&gt;&lt;img src="https://www.no2id.net/images/b/NO2ID_Pledge_banner2a.jpg" alt="The NO2ID Pledge - have YOU made it yet?" style="width:351px;height:90px;border:0" /&gt;&lt;/a&gt;</textarea></td>
           </tr>
 		  
           <tr> 
@@ -48,7 +48,7 @@ require_once("inc/pageHead.php");?>
 		  
           <tr> 
             <td><img src="/images/b/NO2ID_Pledge_banner2b.jpg" height="60" width="234"></td>
-            <td><textarea name="textarea4" cols="30" rows="5" readonly="readonly">&lt;a href="http://www.no2id.net/pledge/"&gt;&lt;img src="http://www.no2id.net/images/b/NO2ID_Pledge_banner2b.jpg" alt="The NO2ID Pledge - have YOU made it yet?" style="width:234;height:60px;border:0;"/&gt;&lt;/a&gt;</textarea></td>
+            <td><textarea name="textarea4" cols="30" rows="5" readonly="readonly">&lt;a href="https://www.no2id.net/pledge/"&gt;&lt;img src="https://www.no2id.net/images/b/NO2ID_Pledge_banner2b.jpg" alt="The NO2ID Pledge - have YOU made it yet?" style="width:234;height:60px;border:0;"/&gt;&lt;/a&gt;</textarea></td>
           </tr>
 		  
           <tr> 
@@ -58,7 +58,7 @@ require_once("inc/pageHead.php");?>
          
           <tr> 
             <td><img src="/images/b/NO2ID_Pledge_button1.png" height="15" width="80"></td>
-            <td><textarea name="textarea5" cols="30" rows="5" readonly="readonly">&lt;a href="http://www.no2id.net/pledge/"&gt;&lt;img src="http://www.no2id.net/images/b/NO2ID_Pledge_button1.png" alt="I've made The NO2ID Pledge - have YOU?" style="width:80px;height:15px;border:0"/&gt;&lt;/a&gt;</textarea></td>
+            <td><textarea name="textarea5" cols="30" rows="5" readonly="readonly">&lt;a href="https://www.no2id.net/pledge/"&gt;&lt;img src="https://www.no2id.net/images/b/NO2ID_Pledge_button1.png" alt="I've made The NO2ID Pledge - have YOU?" style="width:80px;height:15px;border:0"/&gt;&lt;/a&gt;</textarea></td>
           </tr>
 		  
           <tr> 
@@ -68,7 +68,7 @@ require_once("inc/pageHead.php");?>
           
 		  <tr> 
             <td><img src="/images/b/NO2ID_Pledge_button2.png" height="15" width="80"></td>
-            <td><textarea name="textarea5" cols="30" rows="5" readonly="readonly">&lt;a href="http://www.no2id.net/pledge/"&gt;&lt;img src="http://www.no2id.net/images/b/NO2ID_Pledge_button2.png" alt="I've made The NO2ID Pledge - have YOU?" style="width:80px;height:15px;border:0"/&gt;&lt;/a&gt;</textarea></td>
+            <td><textarea name="textarea5" cols="30" rows="5" readonly="readonly">&lt;a href="https://www.no2id.net/pledge/"&gt;&lt;img src="https://www.no2id.net/images/b/NO2ID_Pledge_button2.png" alt="I've made The NO2ID Pledge - have YOU?" style="width:80px;height:15px;border:0"/&gt;&lt;/a&gt;</textarea></td>
           </tr>
 		  
           <tr> 
@@ -81,7 +81,7 @@ require_once("inc/pageHead.php");?>
 	  
 	  <br /><br />
 	  
-	    <p style="clear:both; font-size:smaller;" align="center"><a href="index.php">PLEDGE HOMEPAGE</a> &#124; <a href="certificate.php">DOWNLOAD CERTIFICATE</a> &#124; <a href="http://www.no2id.net/getInvolved/join.php">JOIN NO2ID</a> &#124; <a href="how.php">HOW IT WORKS</a></p>
+	    <p style="clear:both; font-size:smaller;" align="center"><a href="index.php">PLEDGE HOMEPAGE</a> &#124; <a href="certificate.php">DOWNLOAD CERTIFICATE</a> &#124; <a href="https://www.no2id.net/getInvolved/join.php">JOIN NO2ID</a> &#124; <a href="how.php">HOW IT WORKS</a></p>
    
   </div>
   

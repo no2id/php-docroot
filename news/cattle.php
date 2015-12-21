@@ -15,5 +15,5 @@ require_once('../inc/pageHead.php');?>
   <p>&quot;Having failed to gain Parliamentary approval, the government is to get its database anyway. This now looks like not just an attack on personal liberty and privacy, but on democracy as well. Does the Home Office think itself above Parliament?</p>
   <p> &quot;Those behind this scheme want a profound change in our way of life, but cannot win the argument. They have ignored serious critics, and tried only to distract the British public from the real cost. The Government has no solid reasons for going ahead, but accelerates the programme when it thinks the public aren&rsquo;t looking.&nbsp; Just why do they want this so badly?&quot;</p>
 </blockquote>
-<p>Original story in <a href="http://politics.guardian.co.uk/homeaffairs/story/0,11026,1457298,00.html">the Guardian</a>, and you can leave your comment on our <a href="http://www.no2id.net/news/newsblog/index.php?p=159">newsblog</a>.</p>
+<p>Original story in <a href="http://politics.guardian.co.uk/homeaffairs/story/0,11026,1457298,00.html">the Guardian</a>, and you can leave your comment on our <a href="https://www.no2id.net/news/newsblog/index.php?p=159">newsblog</a>.</p>
 <?php require_once('../inc/pageFooter.php');?>

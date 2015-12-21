@@ -6,7 +6,7 @@ require_once("inc/pageHead.php");?>
 
   <h1 style="clear:both;" align="center">How it works</h1><br />
   
-  <p style="clear:both; font-size:smaller;" align="center"><a href="index.php">PLEDGE HOMEPAGE</a> &#124; <a href="certificate.php">DOWNLOAD CERTIFICATE</a> &#124; <a href="http://www.no2id.net/getInvolved/join.php">JOIN NO2ID</a> &#124; <a href="banners.php">SPREAD THE WORD</a></p>
+  <p style="clear:both; font-size:smaller;" align="center"><a href="index.php">PLEDGE HOMEPAGE</a> &#124; <a href="certificate.php">DOWNLOAD CERTIFICATE</a> &#124; <a href="https://www.no2id.net/getInvolved/join.php">JOIN NO2ID</a> &#124; <a href="banners.php">SPREAD THE WORD</a></p>
 
  <br />
  
@@ -88,7 +88,7 @@ require_once("inc/pageHead.php");?>
    
    <br />
    
-     <p style="clear:both; font-size:smaller;" align="center"><a href="index.php">PLEDGE HOMEPAGE</a> &#124; <a href="certificate.php">DOWNLOAD CERTIFICATE</a> &#124; <a href="http://www.no2id.net/getInvolved/join.php">JOIN NO2ID</a> &#124; <a href="banners.php">SPREAD THE WORD</a></p>
+     <p style="clear:both; font-size:smaller;" align="center"><a href="index.php">PLEDGE HOMEPAGE</a> &#124; <a href="certificate.php">DOWNLOAD CERTIFICATE</a> &#124; <a href="https://www.no2id.net/getInvolved/join.php">JOIN NO2ID</a> &#124; <a href="banners.php">SPREAD THE WORD</a></p>
    
   </div>
   

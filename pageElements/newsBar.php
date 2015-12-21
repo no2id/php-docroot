@@ -51,28 +51,28 @@
   <h1>Campaign News</h1>
   
   <div class="item">
-       <script src="http://feeds.feedburner.com/no2idnewsblog?format=sigpro" type="text/javascript" ></script>
+       <script src="https://feeds.feedburner.com/no2idnewsblog?format=sigpro" type="text/javascript" ></script>
        <noscript>
   	    <p>Subscribe to RSS headline updates from: 
-	    <a href="http://feeds.feedburner.com/no2idnewsblog"></a>
+	    <a href="https://feeds.feedburner.com/no2idnewsblog"></a>
 	    <br/>Powered by FeedBurner</p>
        </noscript>
   </div>
 
   <div class="item">
-    <script src="http://feeds.feedburner.com/no2idnewsletter?format=sigpro" type="text/javascript" ></script>
+    <script src="https://feeds.feedburner.com/no2idnewsletter?format=sigpro" type="text/javascript" ></script>
     <noscript>
         <p>Subscribe to RSS headline updates from:
-        <a href="http://feeds.feedburner.com/no2idnewsletter"></a>
+        <a href="https://feeds.feedburner.com/no2idnewsletter"></a>
         <br/>Powered by FeedBurner</p>
     </noscript>
   </div>
 
   <div class="item">
-  	<script src="http://feeds.feedburner.com/no2idpressreleases?format=sigpro" type="text/javascript" ></script>
+  	<script src="https://feeds.feedburner.com/no2idpressreleases?format=sigpro" type="text/javascript" ></script>
 	<noscript>
 	    <p>Subscribe to RSS headline updates from: 
-	    	<a href="http://feeds.feedburner.com/no2idpressreleases"></a>
+	    	<a href="https://feeds.feedburner.com/no2idpressreleases"></a>
 		<br/>Powered by FeedBurner
 	    </p>
 	</noscript>

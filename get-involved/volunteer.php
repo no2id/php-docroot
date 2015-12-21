@@ -26,7 +26,7 @@ require_once("../inc/pageHead.php");?>
     <div style="width:230px; float:left; margin:0 0 4px 8px;">
        <div id="inPageForm">
             <form id="signUpForm" method="post" 
-                action="http://www.no2id.net/mailman/subscribe/id-action">
+                action="https://www.no2id.net/mailman/subscribe/id-action">
                 <div>
          		<h3>subscribe to id-action</h3>
        		</div>
@@ -76,7 +76,7 @@ require_once("../inc/pageHead.php");?>
           group in your area, there are a thousand vacancies. 
 	  It is an interesting and social activity you can do 
 	  wherever you are. See our 
-	  <a href="http://www.no2id.net/resources/">Campaign Handbook</a> 
+	  <a href="https://www.no2id.net/resources/">Campaign Handbook</a> 
     <br />Contact <a href="mailto:local.groups&#x40;no2id.net">local.groups&#x40;no2id.net</a></p>
 </div>
 

@@ -54,7 +54,7 @@ require_once("../inc/pageHead.php");?>
   <tr> 
     <td><img src="/images/b/id-day.gif" width="351" 
         height="90" alt="id-day" /></td>
-    <td><textarea name="textarea1" cols="30" rows="5" readonly="readonly">&lt;a href="http://www.no2id.net/get-involved/id-day"&gt;&lt;img src="http://www.no2id.net/images/b/id-day.gif" alt="Show them you're not a number &#8212;  ID-Day, 26th March 2007" style="width:351px;height:90px;" /&gt;&lt;/a&gt;</textarea></td>
+    <td><textarea name="textarea1" cols="30" rows="5" readonly="readonly">&lt;a href="https://www.no2id.net/get-involved/id-day"&gt;&lt;img src="https://www.no2id.net/images/b/id-day.gif" alt="Show them you're not a number &#8212;  ID-Day, 26th March 2007" style="width:351px;height:90px;" /&gt;&lt;/a&gt;</textarea></td>
   </tr>
   <tr> 
     <td colspan="2" style="font-size:smaller;border-bottom:#c00 1px solid">Standard 
@@ -63,7 +63,7 @@ require_once("../inc/pageHead.php");?>
   <tr> 
     <td><img src="/images/b/id-dayb.gif" width="234" height="60"
     alt="name not number" /></td>
-    <td><textarea name="textarea2" cols="30" rows="5" readonly="readonly">&lt;a href="http://www.no2id.net/get-involved/id-day"&gt;&lt;img src="http://www.no2id.net/images/b/id-dayb.gif" alt="Show them you're not a number - ID-Day, 26th March 2007" style="width:234px;height:60px;border:0" /&gt;&lt;/a&gt;</textarea></td>
+    <td><textarea name="textarea2" cols="30" rows="5" readonly="readonly">&lt;a href="https://www.no2id.net/get-involved/id-day"&gt;&lt;img src="https://www.no2id.net/images/b/id-dayb.gif" alt="Show them you're not a number - ID-Day, 26th March 2007" style="width:234px;height:60px;border:0" /&gt;&lt;/a&gt;</textarea></td>
   </tr>
 </table>
 

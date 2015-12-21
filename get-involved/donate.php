@@ -70,7 +70,7 @@ button, and paste it into your own web- or blog page:</p>
   <tr> 
     <td><img src="../images/buttons/NO2ID_donor.png" alt="NO2ID donor"
          width="80" height="15" /></td>
-    <td><textarea name="textarea12" cols="45" rows="5" readonly="readonly">&lt;a href=&quot;http://www.no2id.net/donate&quot;&gt;&lt;img src=&quot;http://www.no2id.net/images/buttons/NO2ID_donor.png&quot; alt=&quot;NO2ID Donor&quot; style=&quot;width:80px;height:15px;border:0&quot; /&gt;&lt;/a&gt;</textarea></td>
+    <td><textarea name="textarea12" cols="45" rows="5" readonly="readonly">&lt;a href=&quot;https://www.no2id.net/donate&quot;&gt;&lt;img src=&quot;https://www.no2id.net/images/buttons/NO2ID_donor.png&quot; alt=&quot;NO2ID Donor&quot; style=&quot;width:80px;height:15px;border:0&quot; /&gt;&lt;/a&gt;</textarea></td>
   </tr>
   <tr> 
     <td colspan="2" style="font-size:smaller;border-bottom:#c00 1px solid">

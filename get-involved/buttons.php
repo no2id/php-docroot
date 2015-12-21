@@ -27,15 +27,15 @@ require_once("../inc/pageHead.php");?>
 
 <table id="buttonsTable">
 <tr> 
-    <td><p><a href="http://www.no2id.net/">
-        <img src="http://www.no2id.net/images/buttons/circle_1.gif" 
+    <td><p><a href="https://www.no2id.net/">
+        <img src="https://www.no2id.net/images/buttons/circle_1.gif" 
         alt="NO2ID &#8212; Stop ID cards and the database state" 
         width="125" height="125" style="width:125px;height:125px;"/></a>
         </p>
     </td>
     <td><p><textarea name="textarea" cols="30" rows="5" 
-        readonly="readonly">&lt;a href="http://www.no2id.net/"&gt;&lt;
-        img src="http://www.no2id.net/images/buttons/circle_1.gif" 
+        readonly="readonly">&lt;a href="https://www.no2id.net/"&gt;&lt;
+        img src="https://www.no2id.net/images/buttons/circle_1.gif" 
         alt="NO2ID &#8212; Stop ID cards and the database state" 
         style="width:125;height:125px;"/&gt;&lt;/a&gt;</textarea></p>
     </td>
@@ -48,13 +48,13 @@ require_once("../inc/pageHead.php");?>
 </tr>
 
 <tr> 
-    <td><a href="http://www.no2id.net/">
-        <img src="http://www.no2id.net/images/buttons/circle_1(black).gif" 
+    <td><a href="https://www.no2id.net/">
+        <img src="https://www.no2id.net/images/buttons/circle_1(black).gif" 
         alt="NO2ID &#8212; Stop ID cards and the database state" 
         width="125" height="125" /></a></td>
     <td><textarea name="textarea4" cols="30" rows="5" 
-        readonly="readonly">&lt;a href="http://www.no2id.net/"&gt;&lt;
-        img src="http://www.no2id.net/images/buttons/circle_1(black).gif" 
+        readonly="readonly">&lt;a href="https://www.no2id.net/"&gt;&lt;
+        img src="https://www.no2id.net/images/buttons/circle_1(black).gif" 
         alt="NO2ID &#8212; Stop ID cards and the database state" 
         style="width:125;height:125px;"/&gt;&lt;/a&gt;</textarea></td>
 </tr>
@@ -66,31 +66,31 @@ require_once("../inc/pageHead.php");?>
 </tr>
 
 <tr> 
-    <td><a href="http://www.no2id.net/">
-        <img src="http://www.no2id.net/images/buttons/square_1.gif" 
+    <td><a href="https://www.no2id.net/">
+        <img src="https://www.no2id.net/images/buttons/square_1.gif" 
         alt="NO2ID &#8212; Stop ID cards and the database state" 
         style="width:120px;height:90px;"/></a></td>
     <td><textarea name="textarea2" cols="30" rows="5" 
-        readonly="readonly">&lt;a href="http://www.no2id.net/"&gt;&lt;
-        img src="http://www.no2id.net/images/buttons/square_1.gif" 
+        readonly="readonly">&lt;a href="https://www.no2id.net/"&gt;&lt;
+        img src="https://www.no2id.net/images/buttons/square_1.gif" 
         alt="NO2ID &#8212; Stop ID cards and the database state" 
         style="width:120px;height:90px;"/&gt;&lt;/a&gt;</textarea></td>
 </tr>
 
 <tr>
-    <td><a href="http://www.no2id.net/">
+    <td><a href="https://www.no2id.net/">
         <img src="/images/micro_bar.gif" 
         alt="NO2ID &#8212; Stop ID cards and the database state" 
         width="88" height="31" /></a></td>
     <td><textarea name="textarea5" cols="30" rows="5" 
-        readonly="readonly">&lt;a href="http://www.no2id.net/"&gt;&lt;
-        img src="http://www.no2id.net/images/micro_bar.gif"
+        readonly="readonly">&lt;a href="https://www.no2id.net/"&gt;&lt;
+        img src="https://www.no2id.net/images/micro_bar.gif"
         alt="NO2ID &#8212; Stop ID cards and the database state" 
         width="88" height="31" "/&gt;&lt;/a&gt;</textarea></td>
 </tr>
 
 <tr> 
-    <td><a href="http://www.no2id.net/" 
+    <td><a href="https://www.no2id.net/" 
         style="position:relative;font-size:16px;
                color:white;background-color:black;
                font-family:'Trebuchet MS',Arial, Helvetica, sans-serif;
@@ -101,7 +101,7 @@ require_once("../inc/pageHead.php");?>
         2ID</a>
     </td>
     <td><textarea name="textarea3" cols="30" rows="5" 
-        readonly="readonly">&lt;a href="http://www.no2id.net/" 
+        readonly="readonly">&lt;a href="https://www.no2id.net/" 
         style="position:relative;font-size:16px;
         color:white;background-color:black;
         font-family:'Trebuchet MS',Arial, Helvetica, sans-serif;
@@ -119,14 +119,14 @@ be one near <strong>you?</strong></p>
 
 <table>
 <tr>
-    <td><a href="http://www.no2id.net/get-involved/idCentres">
-        <img src="http://www.no2id.net/images/b/help_find.jpg" 
+    <td><a href="https://www.no2id.net/get-involved/idCentres">
+        <img src="https://www.no2id.net/images/b/help_find.jpg" 
         alt="Help us find the ID interrogation centres" 
         style="width:351px;height:90px" /></a>
     </td>
     <td><textarea name="interrogation_centres" cols="30" rows="5">
-    &lt;a href="http://www.no2id.net/get-involved/idCentres"&gt;&lt;
-    img src="http://www.no2id.net/images/b/help_find.jpg" 
+    &lt;a href="https://www.no2id.net/get-involved/idCentres"&gt;&lt;
+    img src="https://www.no2id.net/images/b/help_find.jpg" 
     alt="Help us find the ID interrogation centres" 
     style="width:351px; height:90px;" /&gt;&lt;/a&gt;</textarea></td>
 </tr>
@@ -156,7 +156,7 @@ be one near <strong>you?</strong></p>
     <td><textarea name="textarea11" cols="30" rows="5" 
         readonly="readonly">&lt;
         a href="http://www.renewforfreedom.net/"&gt;&lt;
-        img src="http://www.no2id.net/images/b/taht.gif" 
+        img src="https://www.no2id.net/images/b/taht.gif" 
         alt="Apply for a passport NOW &#8212; more info at 
             www.renewforfreedom.net" 
         style="width:351px; height:90px;" /&gt;&lt;/a&gt;</textarea></td>
@@ -172,7 +172,7 @@ be one near <strong>you?</strong></p>
     <td><textarea name="textarea12" cols="30" rows="5" 
         readonly="readonly">&lt;
         a href="http://www.renewforfreedom.net/"&gt;&lt;
-        img src="http://www.no2id.net/images/b/taht01.gif"
+        img src="https://www.no2id.net/images/b/taht01.gif"
         alt="Apply for a passport NOW &#8212; more info at www.renewforfreedom.net" 
         style="width:234; height:60px;"/&gt;&lt;/a&gt;</textarea></td>
 </tr>
@@ -188,7 +188,7 @@ be one near <strong>you?</strong></p>
     <td><textarea name="textarea13" cols="30" rows="5" 
         readonly="readonly">&lt;
         a href="http://www.renewforfreedom.net/"&gt;&lt;
-        img src="http://www.no2id.net/images/b/taht02.gif"
+        img src="https://www.no2id.net/images/b/taht02.gif"
         alt="Apply for a passport NOW &#8212; more info at www.renewforfreedom.net" 
         style="width:234; height:60px;"/&gt;&lt;/a&gt;</textarea></td>
 </tr>

@@ -51,13 +51,13 @@ require_once('../inc/pageHead.php');?>
   <li><a href="http://www.liberty-human-rights.org.uk/resources/policy-papers/2005/id-cards-2nd-reading-lords-1005.PDF">Updated Liberty  briefing for the 2nd reading of the Bill in the House of Lords</a>, October 2005  (PDF, 226kb) </li>
   <li><a href="http://www.liberty-human-rights.org.uk/privacy/id-cards-why-you-should-take-your-privacy-pers.pdf">Why  you should take your privacy personally</a> (PDF, 85kb), Liberty briefing on ID cards and  the National Identity Register, published June 2005 (<a href="http://www.liberty-human-rights.org.uk/privacy/id-cards-flyer.pdf%20">Also  available as a flyer</a> (PDF, 73kb))</li>
   <li><a href="http://www.liberty-human-rights.org.uk/privacy/id-cards-fiction-and-fact.shtml">Fiction  and Fact</a> Liberty &ldquo;myth-busting&rdquo;  booklet on ID Cards (PDF, 296kb)</li>
-  <li><a href="http://www.no2id.net/IDSchemes/NO2IDSummaryBriefingMay2005.pdf">NO2ID  Summary Briefing on the ID scheme</a> (PDF, 137kb), published May 2005</li>
-  <li><a href="http://www.no2id.net/IDSchemes/NO2IDLordsBriefingMarch2005.pdf">NO2ID  briefing for the Second Reading of the Identity Cards Bill in the House of  Lords</a> (PDF, 194kb), March 2005 </li>
+  <li><a href="https://www.no2id.net/IDSchemes/NO2IDSummaryBriefingMay2005.pdf">NO2ID  Summary Briefing on the ID scheme</a> (PDF, 137kb), published May 2005</li>
+  <li><a href="https://www.no2id.net/IDSchemes/NO2IDLordsBriefingMarch2005.pdf">NO2ID  briefing for the Second Reading of the Identity Cards Bill in the House of  Lords</a> (PDF, 194kb), March 2005 </li>
   <li><a href="http://www.liberty-human-rights.org.uk/resources/policy-papers/2005/id-card-2nd-reading-lords.pdf">Liberty  briefing for the Second Reading in the House of Lords</a> (PDF, 189kb), March  2005 </li>
   <li><a href="http://www.jcwi.org.uk/campaigns/IDcards/lordsbriefing.html%20">Joint  Council for the Welfare of Immigrants briefing to the Lords</a>, March 2005</li>
   <li><a href="http://www.jcwi.org.uk/campaigns/IDcards/IDcarddiscrimination.html">JCWI  previous briefings</a> </li>
-  <li><a href="http://www.no2id.net/IDSchemes/NO2ID2ndReadingBriefingDec2004.pdf">NO2ID  briefing for the Second Reading of the Identity Cards Bill in the House of  Commons</a> (PDF, 161kb), December 2004</li>
-  <li><a href="http://www.no2id.net/IDSchemes/NO2IDSummaryBriefingMay2005.pdf">NO2ID  summary briefing</a> (PDF, 89kb), December 2004</li>
+  <li><a href="https://www.no2id.net/IDSchemes/NO2ID2ndReadingBriefingDec2004.pdf">NO2ID  briefing for the Second Reading of the Identity Cards Bill in the House of  Commons</a> (PDF, 161kb), December 2004</li>
+  <li><a href="https://www.no2id.net/IDSchemes/NO2IDSummaryBriefingMay2005.pdf">NO2ID  summary briefing</a> (PDF, 89kb), December 2004</li>
   <li> <a href="http://www.liberty-human-rights.org.uk/privacy/id-card-ha-draft-bill-brief.PDF" target="_blank">Liberty on the Draft Bill</a> Liberty evidence to Home  Affairs Committee on the Draft ID Cards Bill May 2004 (PDF, 107kb)</li>
   <li><a href="http://www.liberty-human-rights.org.uk/privacy/id-card-oral-evidence-feb-04.pdf" target="_blank">Evidence to the Home Affairs Select Committee - Feb 04 </a>Liberty's outline submissions to the Home  Affairs oral evidence session (PDF, 240kb)</li>
 </ul>
@@ -116,7 +116,7 @@ require_once('../inc/pageHead.php');?>
 <h2 id="hmo_research">Home Office Research &amp; Publications and commentary </h2>
 <ul>
   <li><a href="http://www.identitytheft.org.uk/">Home Office Identity Theft Website</a> </li>
-  <li><a href="http://www.no2id.net/news/newsblog/?p=351">A quick look at the Home Office ID Fraud  estimate breakdown</a> shows it to be somewhat nonsensical.</li>
+  <li><a href="https://www.no2id.net/news/newsblog/?p=351">A quick look at the Home Office ID Fraud  estimate breakdown</a> shows it to be somewhat nonsensical.</li>
   <li> <a href="http://www.identitycards.gov.uk/library/assessment-of-awareness-and-demand-amongst-foreign-nationals-for-identity-products.pdf">Report on Foreign National Identity Related Products Trade Off  Research</a> HMO  assessment of awareness and demand amongst foreign nationals for biometric  residence permits and related identity products, December 2005 (PDF, 467kb)</li>
   <li> <a href="http://www.identitycards.gov.uk/library/2005-10-12_Trade_Off_final_report.pdf" target="_blank" title="Link opens in a new window">Identity  Cards Trade Off Research Final Report</a>, 
     HMO assessment of the  &nbsp;awareness and demand for the Identity Cards Scheme among both citizens  and public and private sector organisations October 2005 (PDF, 260kb) </li>

@@ -6,9 +6,9 @@ require_once('../inc/pageHead.php');?>
 <!-- Put your page in here -->
 <h1>The mother of all polls shows ID not wanted</h1>
 <p>Less than a week after the Identity Cards Bill scraped through its second reading 
-  by 31 votes under heavy assault from backbenchers, a <a href="http://www.no2id.net/news/newsblog/?p=263" target="_self">YouGov</a> 
+  by 31 votes under heavy assault from backbenchers, a <a href="https://www.no2id.net/news/newsblog/?p=263" target="_self">YouGov</a> 
   poll has shown support for the Bill heading south.</p>
-<p>Two other independent polls since the election &#8211; from <a href="http://www.no2id.net/news/newsblog/?p=239" target="_self">ICM</a> 
+<p>Two other independent polls since the election &#8211; from <a href="https://www.no2id.net/news/newsblog/?p=239" target="_self">ICM</a> 
   and the <a href="http://www.dailymail.co.uk/pages/live/articles/news/news.html?in_article_id=353541&in_page_id=1770" target="_blank">Daily 
   Mail</a> &#8211; have shown support for a national ID system collapsing as more 
   details about the scheme are revealed, but the questions in the YouGov poll 

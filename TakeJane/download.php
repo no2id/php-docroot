@@ -12,7 +12,7 @@ require_once("../inc/pageHead.php");?>
   
 <br />
 	
-<p style="text-align:left;"><a href="http://www.no2id.net/downloads/TakeJaneAd_lores.pdf">
+<p style="text-align:left;"><a href="https://www.no2id.net/downloads/TakeJaneAd_lores.pdf">
  <img src="fx/TakeJaneAd.jpg" alt="Take Jane print-ready advert" width="200" height="283" 
  style="float:right; margin:5px 0 5px 10px;" /></a>You are welcome to download and 
  distribute the printed version of <em>Take Jane</em>.  Click on the image to the 

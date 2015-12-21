@@ -161,14 +161,14 @@ visit: <a href="http://services.parliament.uk/bills/2008-09/coronersandjustice.h
 people</em> what is going on</strong>.</p>
 
 <p>Send your friends, family and colleagues a link to this page (<a
-href="http://www.no2id.net/datasharing">http://www.no2id.net/datasharing</a>)
+href="https://www.no2id.net/datasharing">https://www.no2id.net/datasharing</a>)
 if they want to find out more, and make sure that YOU keep up to date on what
 the government is doing.</p>
 
 <br />
 
 <p>Registering your support &#8212; <a
-href="http://www.no2id.net/getinvolved/support"><strong>to receive our
+href="https://www.no2id.net/getinvolved/support"><strong>to receive our
 fortnightly newsletter</strong></a> and a FREE information pack &#8212; is an
 easy way to stay informed.</p>
 

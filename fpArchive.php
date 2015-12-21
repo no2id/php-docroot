@@ -4,7 +4,7 @@
  *     archives of the front-page
  *
  * Copyright (c) 2009 No2ID. All rights reserved.
- * Email: <webmaster@no2id.net> Web: <http://www.no2id.net>
+ * Email: <webmaster@no2id.net> Web: <https://www.no2id.net>
  *
  * $Id: fpArchive.php,v 1.83 2011/06/12 15:29:36 adam Exp $
  *
@@ -521,10 +521,10 @@ actually admits is unnecessary, but is doing anyway &#8212; census."</p>
    <a href="http://news.bbc.co.uk/1/hi/technology/8022791.stm">"Blunkett seeks
    'end to ID cards'"</a> but what he has actually called for is a re-packaging
    to fabricate public trust.
-   <a href="http://www.no2id.net/news/pressRelease/release?name=Blunketts_fake">He
+   <a href="https://www.no2id.net/news/pressRelease/release?name=Blunketts_fake">He
    has done so before</a>. Mr Blunkett still believes that you should be
    officially numbered, and <strong>
-   <a href="http://www.no2id.net/IDSchemes/whyNot">your identity determined in a
+   <a href="https://www.no2id.net/IDSchemes/whyNot">your identity determined in a
    central register</a></strong>. The physical token you to carry is
    irrelevant.</p>
 <p>Likewise the Identity and Passport Service. They have not given up. They
@@ -552,9 +552,9 @@ threats to the privacy, personal security and freedom of everyone in the UK. It
 concludes that more than 8 out of 10 of the systems should either be scrapped
 completely or stopped and reconstructed with privacy in mind.</p>
 <p>Even so it is not a completely comprehensive list. For some others see <a
-href="/dbstate">http://www.no2id.net/dbstate</a> &#8212; and for more detail
+href="/dbstate">https://www.no2id.net/dbstate</a> &#8212; and for more detail
 on the grand plans of 'joined-up government' see <a
-href="/datasharing">http://www.no2id.net/datasharing</a>.</p>
+href="/datasharing">https://www.no2id.net/datasharing</a>.</p>
 <p>When we coined our slogan "stop the database state" back in 2004 it was
 because we needed to give a name to 'the tendency to try to control society by
 collecting information on people in databases'.</p>
@@ -770,13 +770,13 @@ colleagues about this.</p> <p>To find out more, and what you can do to stop it,
 
 <p>With the publication of the Home Affairs Select Committee report: "A Surveillance Society?" the ID scheme gets its third official black mark in four months.  The committee of MPs of all parties demanded that:</p>
 <blockquote>"The Government should give an explicit undertaking to adhere to a principle of data minimisation and should resist a tendency to collect more personal information and establish larger databases. Any decision to create a major new database, to share information on databases, or to implement proposals for increased surveillance, should be based on a proven need."</blockquote>
-<p>This is NO2ID's view too. We're glad they agree. However, it is totally incompatible with the conception of a <a href="http://www.no2id.net/IDSchemes/whyNot.php">National Identity Register</a> that would store and control all essential facts about everyone for life, in order to support broader data-sharing across government.  James Hall, the head of the Identity and Passport Service <a href="http://www.civilservicenetwork.com/news/article.html?tx_ttnews%5Btt_news%5D=16555&tx_ttnews%5BbackPid%5D=29&cHash=">wrote last year</a>:</p>
+<p>This is NO2ID's view too. We're glad they agree. However, it is totally incompatible with the conception of a <a href="https://www.no2id.net/IDSchemes/whyNot.php">National Identity Register</a> that would store and control all essential facts about everyone for life, in order to support broader data-sharing across government.  James Hall, the head of the Identity and Passport Service <a href="http://www.civilservicenetwork.com/news/article.html?tx_ttnews%5Btt_news%5D=16555&tx_ttnews%5BbackPid%5D=29&cHash=">wrote last year</a>:</p>
 <blockquote>[Joined-up government] will demand increased inter-departmental co-operation and will, by its nature, involve sharing more data about an individual between public sector organisations. The national identity scheme is being designed to meet that public expectation of improved services and joined-up government.</blockquote>
 <p>That is data maximisation.</p>
 <p>Last <em>month</em> the committee of technology experts appointed by the Government complained [<a href="http://www.ips.gov.uk/identity/downloads/ISAP_Annual_Report.pdf">ISAP
 Report, 156kb PDF</a>] that the scheme lacks "robust and transparent operational data governance regime and clear data architecture".</p>
 <p>In other words, it is an insecure muddle.</p>
-<p>And back in March, Sir James Crosby, commissioned by Gordon Brown when he was Chancellor to look into "identity assurance", laid out <a href="http://www.no2id.net/news/pressRelease/release.php?name=Crosby_10">ten
+<p>And back in March, Sir James Crosby, commissioned by Gordon Brown when he was Chancellor to look into "identity assurance", laid out <a href="https://www.no2id.net/news/pressRelease/release.php?name=Crosby_10">ten
 clear principles for the design of a universal identity system</a>. The Home Office was already breaking every one, but had the gall to claim Crosby's report justified its scheme.</p>
 <p>It's official: wrong in principle, shoddily built, and a threat to privacy. The ID card project must be stopped.</p><br />
 
@@ -813,7 +813,7 @@ clear principles for the design of a universal identity system</a>. The Home Off
 </ul>
 <p>You have been lied to. The scheme is <strong>not</strong> voluntary. It is <strong>not</strong> proceeding according to published plans.</p>
 <p>Don't be fooled, fight back... <strong><a href="/pledge/index.php">Make the NO2ID Pledge</a></strong>.</p>
-<p>Get informed &ndash; <strong><a href="http://88.80.13.160/wiki/National_Identity_Scheme_Options_Analysis_Outcome">show the leaked document</a></strong> to your family and friends... Join the resistance.  <strong><a href="http://www.no2id.net/getInvolved/join.php">Join NO2ID</a></strong>.</p>
+<p>Get informed &ndash; <strong><a href="http://88.80.13.160/wiki/National_Identity_Scheme_Options_Analysis_Outcome">show the leaked document</a></strong> to your family and friends... Join the resistance.  <strong><a href="https://www.no2id.net/getInvolved/join.php">Join NO2ID</a></strong>.</p>
 
 <h1 style="clear:none">WHY YOU SHOULD BE WORRIED ABOUT 'DATA-SHARING'... AND WHAT YOU CAN DO ABOUT IT</h1>
 <p>"Information sharing" is supposed to sound nice. But think about it - gossip is information sharing.</p>
@@ -842,7 +842,7 @@ clear principles for the design of a universal identity system</a>. The Home Off
 <p>Not just the card, not just the database, but also the mass 'data-sharing' that lies at the heart of government ID policy.</p>
 <p>NOW is the time to write to your MP <a href="http://www.writetothem.com/"><strong>via WriteToThem.com</strong></a> asking that he or she demand an immediate and permanent stop to all development of ID cards and a National Identity Register.</p>
 <p>If you don't already know his or her position, you can check how your MP voted on the ID cards legislation at <a href=" http://www.theyworkforyou.com/"><strong>TheyWorkForYou.com</strong></a>.</p>
-<p>Be polite, be concise and make your points clearly &#8212; read <a href="http://www.no2id.net/downloads/print/NO2ID-HowtoLobby.pdf"><strong>NO2ID's lobbying guide</strong></a> (21KB PDF file) for advice on how to write an effective letter.  Absolutely insist.  The more MPs that receive mail on this from their constituents, the more the pressure will build to drop the scheme.</p>
+<p>Be polite, be concise and make your points clearly &#8212; read <a href="https://www.no2id.net/downloads/print/NO2ID-HowtoLobby.pdf"><strong>NO2ID's lobbying guide</strong></a> (21KB PDF file) for advice on how to write an effective letter.  Absolutely insist.  The more MPs that receive mail on this from their constituents, the more the pressure will build to drop the scheme.</p>
 
 <h1 style="clear:both;">NOW THE DATABASE STATE CLAIMS 25,000,000 BRITISH VICTIMS</h1>
 <p>It's hard to know whether to laugh or cry. The cabinet insists we should
@@ -992,7 +992,7 @@ funds recently</a>, please do so now. Thank you for your support.</p>
 
 <h1 style="clear:both;">MERRY CHRISTMAS...</h1>
 <p><a href="/resources/flashcomp.php"><img src="/images/cartoons/NO2IDxmas2006.jpg"  width="460" height="321" alt="Click for special Xmas animation" title="Click for special Xmas animation" style="float:left; margin:0 5px 5px 0;"></a>...and a happy and peaceful, ID-free New Year. Click on the cartoon for our Xmas special animation.</p>
-<p><a href="http://www.no2id.net/news/newsletters/newsletter.php?issue=61">Click here for NO2ID's Review of the Year</a>.</p>
+<p><a href="https://www.no2id.net/news/newsletters/newsletter.php?issue=61">Click here for NO2ID's Review of the Year</a>.</p>
 
 <h1 style="clear:both;">DID THEY THINK NO ONE WAS LOOKING?</h1>
 <p>Tuesday 19th was the last day of the Parliamentary term. So that's the day the Home Office chose to announce its delayed "Identity Management Action Plan", now called the <a href="http://www.identitycards.gov.uk/downloads/Strategic_Action_Plan.pdf">Strategic Action Plan for the National Identity Scheme</a> [pdf]. Mr Reid appears to have told Parliament, but his name doesn't appear on it.  Ministers Byrne and Ryan, and Mr Hall of the IPS share the limelight.</p>
@@ -1157,7 +1157,7 @@ How can IPS plan to do anything but extend existing contracts in the absence of 
 <p><a href="http://www.renewforfreedom.net/"><img src="http://www.renewforfreedom.net/fx/banner_02_24.png" width="125" height="125" alt="renew for freedom - SUMMER 2006 - renew your passport" title="renew for freedom - SUMMER 2006 - renew your passport" style="float:left; margin:0 5px 5px 0; border: 0;" /></a><strong>It is not too late. The UK IPS has not yet changed passport renewal procedures so, this summer, NO2ID and a growing number of other organisations* ask that you renew your passport.</strong></p>
 <p>Did you know that, from October of this year, as preparation for the ID scheme, ALL first-time passport applicants will have background checks and be interviewed by officials at one of the government's 69 new 'enrolment centres'?  This will include your children as they reach 16.  Before long it will include you too, when you <em>renew</em> your passport. And you will be fingerprinted as well.</p>
 <p>So, unless you need it soon, you should renew your passport NOW.  If you wait till autumn, you risk giving up personal data to be used for the government identity database. Pay £51 for a 10-year passport while you can. The charge for ID registration and a record for life will be at least £93. The website <a href="http://www.renewforfreedom.net/">www.renewforfreedom.net</a> explains in more detail. There's a fact-sheet there that you can download and pass on to others.</p>
-<p>If you are put on the ID system, you will be exposed immediately to all the dangers, <a href="http://www.no2id.net/IDSchemes/whyNot.php">explained here</a>.  It could be sooner than you think.</p>
+<p>If you are put on the ID system, you will be exposed immediately to all the dangers, <a href="https://www.no2id.net/IDSchemes/whyNot.php">explained here</a>.  It could be sooner than you think.</p>
 <p>Show the government how many people want to stay out of the ID scheme, and buy time while NO2ID works to abolish it. Say "No" now. <strong>Renew your passport this Summer.</strong></p>
 <p>*<em>including the Liberal Democrats, UKIP and the Green Party; the Stop the War Coalition and the Countryside Alliance; Liberty, Privacy International, Our World Our Say, Globalise Resistance, The Freedom Association, Statewatch and the New Alliance.</em></p>
 
@@ -1201,8 +1201,8 @@ How can IPS plan to do anything but extend existing contracts in the absence of 
 <p>You may hear that you can 'opt out' of having the card until 2010 - the Government will charge you a penalty for doing this, and put all your details on the Register anyway.</p>
 <p>Should New Labour win the next election, Charles Clarke says the ID scheme will be compulsory for everyone. Official control of <strong>your</strong> personal information with enforced charges. An Identity Tax wrapped up in a License to Live.</p>
 <p>Expect more spin, lies, and broken promises. £30 to register? Think again - Clarke says he is going to have to 'reconsider' his figures.</p>
-<p>NO2ID will be intensifying its activities in the coming weeks and months. We aren't going away. Now is the time to <a href="http://www.no2id.net/getInvolved/index.php">get involved</a>. If we want to stop this, we <i>can</i> do it...</p>
-<p>Polls say 8.5 million people are strongly against the scheme. Millions more are just waking up. You can <a href="http://www.no2id.net/resources/index.php">spread the word</a>... <a href="http://www.no2id.net/localGroups/index.php">start a local group</a>... <a href="http://www.no2id.net/getInvolved/support.php">gather support</a>.</p>
+<p>NO2ID will be intensifying its activities in the coming weeks and months. We aren't going away. Now is the time to <a href="https://www.no2id.net/getInvolved/index.php">get involved</a>. If we want to stop this, we <i>can</i> do it...</p>
+<p>Polls say 8.5 million people are strongly against the scheme. Millions more are just waking up. You can <a href="https://www.no2id.net/resources/index.php">spread the word</a>... <a href="https://www.no2id.net/localGroups/index.php">start a local group</a>... <a href="https://www.no2id.net/getInvolved/support.php">gather support</a>.</p>
 <p>The fight goes on. Say NO to ID.</p>
 
 <h1 style="clear:both;">NEWS: Ping-pong to enter round five</h1>
@@ -1350,9 +1350,9 @@ How can IPS plan to do anything but extend existing contracts in the absence of 
 <p>*The Bill was opposed by MPs of all parties across the House. NO2ID are grateful to all those who opposed the Government, and would like to extend special thanks to the Labour rebels: <strong>Diane Abbott, Michael Clapham, Katy Clark, Jeremy Corbyn, Gwyneth Dunwoody, Mark Fisher, Paul Flynn, Neil Gerrard, Ian Gibson, Kate Hoey, Kelvin Hopkins, Glenda Jackson, Lynne Jones, Robert Marshall-Andrews, John McDonnell, Albert Owen, Linda Riordan, Clare Short, Alan Simpson, Geraldine Smith, John Smith, David Taylor, Robert Wareing, David Winnick and Mike Wood.</strong></p>
 
 <h1 style="clear:both;">News - On the campaign trail with NO2ID</h1>
-<p><img src="/images/speakUpPhoto.jpg" alt="Speak Up! masks at Labour Party Conference 2005" width="300" height="225" style="float:left; margin:5px;"/>NO2ID supporters have been getting in the news recently, successfully tracking down junior minister Andy Burnham and the Home Office&rsquo;s &lsquo;secret&rsquo; biometrics roadshow as it travels the shopping centres of the UK. <a href="http://www.no2id.net/phpBB/index.php">Check out our discussion forum</a> for details of what happened and links to TV and other coverage.</p>
+<p><img src="/images/speakUpPhoto.jpg" alt="Speak Up! masks at Labour Party Conference 2005" width="300" height="225" style="float:left; margin:5px;"/>NO2ID supporters have been getting in the news recently, successfully tracking down junior minister Andy Burnham and the Home Office&rsquo;s &lsquo;secret&rsquo; biometrics roadshow as it travels the shopping centres of the UK. <a href="https://www.no2id.net/phpBB/index.php">Check out our discussion forum</a> for details of what happened and links to TV and other coverage.</p>
 <p>Mr Burnham &lsquo;returned the favour&rsquo; on the Monday of Labour party conference, making a surprise appearance &ndash; and getting a grilling at &ndash; NO2ID&rsquo;s fringe meeting.</p>
-<p><a href="http://www.no2id.net/phpBB/viewtopic.php?t=2420">Accounts and links to recordings of the meeting</a>. </p>
+<p><a href="https://www.no2id.net/phpBB/viewtopic.php?t=2420">Accounts and links to recordings of the meeting</a>. </p>
 <p>Campaigners wearing Matt Buck&rsquo;s <em>ID tragedy</em> masks gathered in Brighton, calling on Labour MPs to <strong>Speak Up!</strong> before the Third Reading of the Identity Cards Bill, expected later this October. Thousands of NO2ID leaflets were distributed to conference delegates, many of whom expressed their support for the campaign.</p>
 <p>Thanks to everyone who has organised or made it to one of these events. If you would like to make your own ID tragedy mask, printable artwork can be downloaded from our <a href="/downloads/index.php#speakUp">Resources and Fun section</a>. </p>
 
@@ -1427,8 +1427,8 @@ action="http://www.publicwhip.org.uk/mp.php" id="pw" style="text-align: left">
 <p>Now we need to know exactly HOW you want to take action.</p>
 <p>We intend proving that the government can never win this battle, so we've launched a competition to find the most innovative and powerful ways to (legally) throw spanners into the works. Get your imagination in gear, and your thinking caps on - the best of your suggestions, suitably anonymised, will be published in due course.</p>
 <ul>
-  <li><a href="http://www.no2id.net/iresist/">Tell us how you will resist</a></li>
-  <li><a href="http://www.no2id.net/forum/viewtopic.php?t=841">Discuss in our interactive forum</a></li>
+  <li><a href="https://www.no2id.net/iresist/">Tell us how you will resist</a></li>
+  <li><a href="https://www.no2id.net/forum/viewtopic.php?t=841">Discuss in our interactive forum</a></li>
 </ul>
 <div style="float:right;margin:5px;text-align:center;"><a href="/images/cartoons/queen.png"><img src="/images/cartoons/queenTeaser.png" alt="Queen's Speech time again" width="149" height="149" /></a><br/>
 <a href="images/cartoons/queen.png" class="more">Queen's speech time again</a></div>
@@ -1595,7 +1595,7 @@ marginal seat near YOU!</h1>
 <p>Monday 21<sup>st</sup> February marks the 53rd anniversary of the abolition
 		of identity cards in the UK. As we stand on the verge of returning to a society
 		based on suspicion rather than trust, NO2ID will be holding a vigil in Parliamant
-		Square. Please join us. <a href="http://www.no2id.net/news/events.php#11" class="more">[more] </a></p>
+		Square. Please join us. <a href="https://www.no2id.net/news/events.php#11" class="more">[more] </a></p>
 <h1>NO2ID training day - helping you to fight for your rights!</h1>
 <p>Saturday 12<sup>th</sup> saw the first NO2ID training day bring important
 		skills to local group activists from around the country, whose work is key

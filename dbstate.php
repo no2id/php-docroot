@@ -20,7 +20,7 @@ require_once("inc/pageHead.php");?>
 <p>Currently the planned systems include:</p>
 
 <ul>	
-  <li><a href="http://www.no2id.net/get-involved/idCentres">
+  <li><a href="https://www.no2id.net/get-involved/idCentres">
       <strong>ID interrogation centres</strong></a>, for passports and ID cards</li>
 
   <li><a href="http://www.renewforfreedom.net">

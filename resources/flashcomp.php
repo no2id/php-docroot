@@ -91,14 +91,14 @@ require_once("inc/pageHead.php");?>
   <p>&nbsp;</p>
   
   <p style="clear:both;">Charles Farrier's excellent presentations on:</p>
-  <p style="clear:both;"><a href="http://www.no2id.net/content/flash01.html"><img src="/images/filmshot3.jpg" alt="Terrorism &amp; ID Movie" width="100" height="103" border="0" style="float:left;padding:5px 5px 5px 5px;" />Terrorism</a>	
+  <p style="clear:both;"><a href="https://www.no2id.net/content/flash01.html"><img src="/images/filmshot3.jpg" alt="Terrorism &amp; ID Movie" width="100" height="103" border="0" style="float:left;padding:5px 5px 5px 5px;" />Terrorism</a>	
     <br />
     Terrorism is being used by our own government as an excuse to remove freedoms 
     our parents and grandparents fought to preserve.</p>
   
-  <p style="clear:both;"><a href="http://www.no2id.net/content/flash02.html"><br />
+  <p style="clear:both;"><a href="https://www.no2id.net/content/flash02.html"><br />
     <img src="/images/film_history.jpg" alt="ID - Lesson from History Movie" width="100" height="80" border="0" style="float:left;padding:5px;" /></a> 
-    <a href="http://www.no2id.net/content/flash02.html">A Lesson from History</a><br />
+    <a href="https://www.no2id.net/content/flash02.html">A Lesson from History</a><br />
     Database technology has a murky past when it comes to processing people.</p>
   
   <h2>&nbsp;</h2>

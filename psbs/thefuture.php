@@ -14,7 +14,7 @@ require_once("inc/pageHead.php");?>
 	<p>Currently planned systems include:</p>
 
 	<ul>	
-	<li><a href="http://www.no2id.net/getInvolved/idCentres.php"><strong>ID interrogation centres</strong></a>, for passports and ID cards</li>
+	<li><a href="https://www.no2id.net/getInvolved/idCentres.php"><strong>ID interrogation centres</strong></a>, for passports and ID cards</li>
 
 	<li><a href="http://www.renewforfreedom.net/index.html"><strong>ePassports</strong></a> that help collect data about your travel for...</li>
 

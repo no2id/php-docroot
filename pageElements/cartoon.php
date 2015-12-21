@@ -3,7 +3,7 @@
  * cartoons.php
  *
  * Copyright (c) 2009, No2ID. All Rights Reserved
- * Email: <phil@no2id.net> Web: <http://www.no2id.net>
+ * Email: <phil@no2id.net> Web: <https://www.no2id.net>
  *
  * $Id: cartoon.php,v 1.24 2010/04/19 19:29:01 phil Exp $
  *

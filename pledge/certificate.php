@@ -37,21 +37,21 @@ require_once("inc/pageHead.php");?>
     of the certificate. </p>
   <br />	
 			
-   <p align="center"><a href="http://www.no2id.net/downloads/NO2ID_Pledge_Certificate_colour.pdf"><img src="images/certificate.jpg" alt="NO2ID Pledge certificate in colour" width="323" height="229" border="0"></a></p>
+   <p align="center"><a href="https://www.no2id.net/downloads/NO2ID_Pledge_Certificate_colour.pdf"><img src="images/certificate.jpg" alt="NO2ID Pledge certificate in colour" width="323" height="229" border="0"></a></p>
 
    
   <p style="clear:both; font-size:smaller;" align="center">The NO2ID Pledge certificate 
-    for colour printers - <a href="http://www.no2id.net/downloads/NO2ID_Pledge_Certificate_colour.pdf"><strong>1.8MB 
+    for colour printers - <a href="https://www.no2id.net/downloads/NO2ID_Pledge_Certificate_colour.pdf"><strong>1.8MB 
     PDF file</strong></a><br />
   </p>
 
    <br />
    
-   <p align="center"><a href="http://www.no2id.net/downloads/NO2ID_Pledge_Certificate_grey.pdf"><img src="images/certificate-grey.jpg" alt="NO2ID Pledge certificate in greyscale" width="323" height="229" border="0"></a></p>
+   <p align="center"><a href="https://www.no2id.net/downloads/NO2ID_Pledge_Certificate_grey.pdf"><img src="images/certificate-grey.jpg" alt="NO2ID Pledge certificate in greyscale" width="323" height="229" border="0"></a></p>
 
    
   <p style="clear:both; font-size:smaller;" align="center">The NO2ID Pledge certificate 
-    for black &amp; white printers - <a href="http://www.no2id.net/downloads/NO2ID_Pledge_Certificate_grey.pdf"><strong>1.8MB 
+    for black &amp; white printers - <a href="https://www.no2id.net/downloads/NO2ID_Pledge_Certificate_grey.pdf"><strong>1.8MB 
     PDF file</strong></a></p>
 
    <br /><br />

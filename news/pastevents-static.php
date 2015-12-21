@@ -123,7 +123,7 @@ eventID:241
 <hr/><h2><a name="240"></a>Sat, 16th Jan 2010 — Lancaster NO2ID Meeting</h2>
 eventID:240
         
-<br/>Lancaster NO2ID will be holding a meeting and street stall.<br/>Place: Function room of the Robert Gillow, 64 Market Street, Lancaster, LA1 1HP<br/>Time: Meeting at 12pm, then weather permitting to be followed by a street stall.<br/> We will be relaunching the Lancaster group as part of the ongoing 'Don't Be A Guinea Pig' campaign <br/>in the North West.<br/>Further details Owen Pearman lancaster@no2id.net <br/>If you are interested in the work of this group, or planning on attending the meeting, please join<br/>the Lancaster mailing group here: http://www.no2id.net/mailman/listinfo/no2id.lancaster              
+<br/>Lancaster NO2ID will be holding a meeting and street stall.<br/>Place: Function room of the Robert Gillow, 64 Market Street, Lancaster, LA1 1HP<br/>Time: Meeting at 12pm, then weather permitting to be followed by a street stall.<br/> We will be relaunching the Lancaster group as part of the ongoing 'Don't Be A Guinea Pig' campaign <br/>in the North West.<br/>Further details Owen Pearman lancaster@no2id.net <br/>If you are interested in the work of this group, or planning on attending the meeting, please join<br/>the Lancaster mailing group here: https://www.no2id.net/mailman/listinfo/no2id.lancaster              
 <hr/><h2><a name="237"></a>Sat, 5th Dec 2009 — Liverpool NO2ID group - Relaunch meeting</h2>
 eventID:237
         
@@ -134,7 +134,7 @@ eventID:237
         
 <hr/><h2><a name="238"></a>Thu, 3rd Dec 2009 — Hull NO2ID Group - Inaugural Meeting</h2>
 eventID:238
-<br/>We are pleased to announce that Hull NO2ID will be holding it's inaugural meeting <br/>Date & Time: Thursday 3rd December at 7.30pm<br/>Place: Ye Olde White Harte Pub, 25 Silver St, Hull, HU1 1JG<br/>Further details Tim Alderslade - Hull@no2id.net<br/>If you are interested in the work of this group or planning  to attend a meeting please join the <br/>Hull mailing group here: http://www.no2id.net/mailman/listinfo/no2id.hull<br/>Thanks very much
+<br/>We are pleased to announce that Hull NO2ID will be holding it's inaugural meeting <br/>Date & Time: Thursday 3rd December at 7.30pm<br/>Place: Ye Olde White Harte Pub, 25 Silver St, Hull, HU1 1JG<br/>Further details Tim Alderslade - Hull@no2id.net<br/>If you are interested in the work of this group or planning  to attend a meeting please join the <br/>Hull mailing group here: https://www.no2id.net/mailman/listinfo/no2id.hull<br/>Thanks very much
 <hr/><h2><a name="239"></a>Mon, 30th Nov 2009 — Manchester NO2ID Lunchtime Demonstration</h2>
 eventID:239
 <br/><strong></strong><br/>1:00pm - 1:30pm at Westminster House on Portland Street (opposite Piccadily Gardens tram stop).<br/>From 30th November, those who've fallen for the Identity and Passport Service spin will be able to apply for a lifetime of the Database State. Manchester NO2ID will be waving our campaign banners to reinforce the message "Don't be a Guinea Pig! Stop the ID Card Con!" and flyering the public to let them know the truth about the Database State. Do come along for 1pm even if you can't stay - this is an important point in the story of the Database State and it's vital that we put a good show of opposition.<br/><strong></strong><br />
@@ -194,7 +194,7 @@ conjuring with a twist!
         
 <hr/><h2><a name="234"></a>Fri, 17th Jul 2009 — NO2ID Database State Hustings, Norwich North</h2>
 eventID:234
-<br/>Norwich NO2ID are holding an electoral hustings on 'The Database State', to which you are cordially invited.<br/>Venue: The Forum, Curve Room, Millennium Plain, Norwich<br />Date: Friday 17th July 2009<br />Time: 7.00pm for 7.30pm start until 9.30pm<br />Entry: Free (donations welcome)<br/>For more information email Tom Read on <a href="mailto:norwich@no2id.net">norwich@no2id.net</a><br/>If you are interested in the work of Norwich NO2ID, please join their mailing list at: <a href="http://www.no2id.net/mailman/listinfo/no2id.norwich">http://www.no2id.net/mailman/listinfo/no2id.norwich</a>
+<br/>Norwich NO2ID are holding an electoral hustings on 'The Database State', to which you are cordially invited.<br/>Venue: The Forum, Curve Room, Millennium Plain, Norwich<br />Date: Friday 17th July 2009<br />Time: 7.00pm for 7.30pm start until 9.30pm<br />Entry: Free (donations welcome)<br/>For more information email Tom Read on <a href="mailto:norwich@no2id.net">norwich@no2id.net</a><br/>If you are interested in the work of Norwich NO2ID, please join their mailing list at: <a href="https://www.no2id.net/mailman/listinfo/no2id.norwich">https://www.no2id.net/mailman/listinfo/no2id.norwich</a>
 <hr/><h2><a name="232"></a>Thu, 25th Jun 2009 — Oxford NO2ID - Public Debate, Identity and Privacy in the Modern Age</h2>
 eventID:232
 <br/>Identity and Privacy in the Modern Age. A public debate hosted by Oxford NO2ID.
@@ -221,7 +221,7 @@ National Coordinator and DATES FOR ACTION.   <br/>The meeting will be on 18th
 June from 7pm at Tenants' Hall 29A Chamberlain House, Phoenix Road, London NW1 1EU
 (Entrance on Ossulston Street).<br/><a href="http://maps.google.co.uk/maps&#8204;q=phoenix+road+NW1&oe=utf-8&client=firefox-a&ie=UTF8&split=0&gl=uk&ei=GRgxSrmmF4LLjAeh4Li1Bw&ll=51.531961,-0.131342&spn=0.005686,0.013819&z=16&iwloc=A">Map</a>: <br/>In the meantime, if you&#8204;d like to be kept up to date on the London
 NO2ID action group and opportunities to get  involved, please join
-our mailing list at: <a rel="nofollow" href="../mailman/listinfo/id-action" target="_blank">http://www.no2id.net/mailman/<wbr />listinfo/id-action.</a><br />
+our mailing list at: <a rel="nofollow" href="../mailman/listinfo/id-action" target="_blank">https://www.no2id.net/mailman/<wbr />listinfo/id-action.</a><br />
 <br />
 We look forward to seeing lots of you there!<br/> Renate Sampson and Lawrence Gould<br/>NO2ID London Coordinators. <p />                
 <hr/><h2><a name="228"></a>Wed, 17th Jun 2009 — Alexandra Palace NO2ID group - Inaugural meeting</h2>
@@ -350,7 +350,7 @@ Green, YO1 7PR <strong><strong> </strong> </strong>
 <br/>Everyone is welcome, newcomer or not, curious or committed. Please bring a friend.  <br/>Our Yorkshire Regional Coordinator, James Elsdon-Baker will be
 speaking on the present positions of both the Database State and NO2ID and will be joined by Ross Bennet of the Selby NO2ID group. 
 <br/>Further details: Ruth Prosser on york@no2id.net 
-<br/>If you're unable to attend, but are interested in the activity of the group, please join the York mailing list on:http://www.no2id.net/mailman/listinfo/no2id.york 
+<br/>If you're unable to attend, but are interested in the activity of the group, please join the York mailing list on:https://www.no2id.net/mailman/listinfo/no2id.york 
         
         
 <hr/><h2><a name="213"></a>Sat, 28th Feb 2009 — Convention on Modern Liberty</h2>
@@ -373,7 +373,7 @@ The Norwich NO2ID group is holding a re-launch meeting.
 <br/><strong><strong> </strong></strong>Time: Monday 9th February from 8pm  
 <br/>Everyone is welcome, newcomer or not, curious or committed. Please bring a friend. <br/>Our East of England Regional Coordinator, Andrew Watson will be speaking on the present possitions of both the Database State and NO2ID
 <br/>Further details: Tom Read on norwich@no2id.net<a href="mailto:portsmouth@no2id.net"></a> 
-<br/>If you're unable to attend, but are interested in the activity of the group, please join the Norwich mailing list on:http://www.no2id.net/mailman/listinfo/no2id.norwich
+<br/>If you're unable to attend, but are interested in the activity of the group, please join the Norwich mailing list on:https://www.no2id.net/mailman/listinfo/no2id.norwich
 <hr/><h2><a name="214"></a>Wed, 4th Feb 2009 — Portsmouth NO2ID - Inaugural meeting</h2>
 eventID:214
 The Portsmouth NO2ID group is holding its first meeting.
@@ -462,7 +462,7 @@ eventID:211
         
         
         
-<br/>Tuesday 25th November is the day when applicants for spouse and student visas from outside the European Union will start to be interviewed for what the government, with an obvious xenophobic spin, calls "identity cards for foreigners". These are actually biometric visas issued under the UK Borders Act 2007, and cannot apply to EU citizens, but are being promoted by the Home Office as the start of the <a href="http://www.no2id.net/IDSchemes/whyNot.php">National Identity Management Scheme</a> - into which they are intended to be merged eventually. <br/>Various groups are planning demonstrations at the immigration centres around the UK - Local NO2ID groups and supporters expect to join in at:<br/><strong>Birmingham: </strong> 12 noon at the UK Border Agency Centre, Dominion Court, 41 Station Road, Solihull, Birmingham B91 3RT [<a href="http://maps.google.co.uk/maps&#8204;ie=UTF-8&oe=utf-8&rls=org.mozilla:en-GB:official&client=firefox-a&q=Dominion+Court,+41+Station+Road,+Solihull,+Birmingham+B91+3RT&um=1&sa=X&oi=geocode_result&resnum=1&ct=title">map</a>]<br/><strong>Cardiff:  </strong>12 noon at the UK Border Agency Centre, General Buildings, 31-33 Newport Road, Cardiff CF24 6AB [<a href="http://www.multimap.com/maps/&#8204;qs=31-33+Newport+Road%2C+Cardiff+CF24+6AB&countryCode=GB">map</a>] <br/><strong>Croydon:</strong>  12 noon at UK Border Agency Centre, Lunar House, 40 Wellesley Road, Croydon CR9 2BY [<a href="http://www.multimap.com/maps/&#8204;qs=40+Wellesley+Road%2C+Croydon+CR9+2BY&countryCode=GB">map</a>] <br/><strong>Glasgow:</strong>  12 noon at the UK Border Agency Centre, Festival Court, 200 Brand Street, Govan, Glasgow G51 1DH [<a href="http://www.multimap.com/maps/&#8204;qs=Festival+Court%2C+200+Brand+Street%2C+Govan%2C+Glasgow+G51+1DH&countryCode=GB">map</a>]<br/><strong>Liverpool:</strong>  12 noon at the UK Border Agency Centre, Reliance House, 20 Water Street, Liverpool L2 8XU  [<a href="http://www.multimap.com/maps/&#8204;qs=Reliance+House%2C+20+Water+Street%2C+Liverpool+L2+8XU&countryCode=GB">map</a>]<br/><strong>Sheffield:  </strong>12 noon at the UK Border Agency Centre, Vulcan House, 6 Millsands, Sheffield S3 8NU  [<a href="http://www.multimap.com/maps/&#8204;qs=Vulcan+House%2C+6+Millsands%2C+Sheffield+S3+8NU&countryCode=GB">map</a>] 
+<br/>Tuesday 25th November is the day when applicants for spouse and student visas from outside the European Union will start to be interviewed for what the government, with an obvious xenophobic spin, calls "identity cards for foreigners". These are actually biometric visas issued under the UK Borders Act 2007, and cannot apply to EU citizens, but are being promoted by the Home Office as the start of the <a href="https://www.no2id.net/IDSchemes/whyNot.php">National Identity Management Scheme</a> - into which they are intended to be merged eventually. <br/>Various groups are planning demonstrations at the immigration centres around the UK - Local NO2ID groups and supporters expect to join in at:<br/><strong>Birmingham: </strong> 12 noon at the UK Border Agency Centre, Dominion Court, 41 Station Road, Solihull, Birmingham B91 3RT [<a href="http://maps.google.co.uk/maps&#8204;ie=UTF-8&oe=utf-8&rls=org.mozilla:en-GB:official&client=firefox-a&q=Dominion+Court,+41+Station+Road,+Solihull,+Birmingham+B91+3RT&um=1&sa=X&oi=geocode_result&resnum=1&ct=title">map</a>]<br/><strong>Cardiff:  </strong>12 noon at the UK Border Agency Centre, General Buildings, 31-33 Newport Road, Cardiff CF24 6AB [<a href="http://www.multimap.com/maps/&#8204;qs=31-33+Newport+Road%2C+Cardiff+CF24+6AB&countryCode=GB">map</a>] <br/><strong>Croydon:</strong>  12 noon at UK Border Agency Centre, Lunar House, 40 Wellesley Road, Croydon CR9 2BY [<a href="http://www.multimap.com/maps/&#8204;qs=40+Wellesley+Road%2C+Croydon+CR9+2BY&countryCode=GB">map</a>] <br/><strong>Glasgow:</strong>  12 noon at the UK Border Agency Centre, Festival Court, 200 Brand Street, Govan, Glasgow G51 1DH [<a href="http://www.multimap.com/maps/&#8204;qs=Festival+Court%2C+200+Brand+Street%2C+Govan%2C+Glasgow+G51+1DH&countryCode=GB">map</a>]<br/><strong>Liverpool:</strong>  12 noon at the UK Border Agency Centre, Reliance House, 20 Water Street, Liverpool L2 8XU  [<a href="http://www.multimap.com/maps/&#8204;qs=Reliance+House%2C+20+Water+Street%2C+Liverpool+L2+8XU&countryCode=GB">map</a>]<br/><strong>Sheffield:  </strong>12 noon at the UK Border Agency Centre, Vulcan House, 6 Millsands, Sheffield S3 8NU  [<a href="http://www.multimap.com/maps/&#8204;qs=Vulcan+House%2C+6+Millsands%2C+Sheffield+S3+8NU&countryCode=GB">map</a>] 
         
         
         
@@ -547,7 +547,7 @@ eventID:204
         
 <br/>Newcastle NO2ID group will be having a relaunch meeting at:<br/>Venue:Centre Against Unemployment , 4 Cloth Market,
 Newcastle,
-NE1 1EE<font><strong><strong> </strong> </strong><br/><strong><strong> </strong></strong>Time: Wednesday 1st October from 7.30pm<br/>And every first Wednesday after that, same venue and time. <br/>Everyone is welcome, newcomer or not, curious or committed. Bring a friend, if you'd like.<br /> <br/>Further details: Nathan Allonby on newcastle@no2id.net <br/>If you're unable to attend but are interested in the activity of the group, please join the Newcastle mailing list on:<br/>http://www.no2id.net/mailman/listinfo/no2id.newcastle
+NE1 1EE<font><strong><strong> </strong> </strong><br/><strong><strong> </strong></strong>Time: Wednesday 1st October from 7.30pm<br/>And every first Wednesday after that, same venue and time. <br/>Everyone is welcome, newcomer or not, curious or committed. Bring a friend, if you'd like.<br /> <br/>Further details: Nathan Allonby on newcastle@no2id.net <br/>If you're unable to attend but are interested in the activity of the group, please join the Newcastle mailing list on:<br/>https://www.no2id.net/mailman/listinfo/no2id.newcastle
         
         
         
@@ -783,7 +783,7 @@ eventID:176
 <br/>The band will be promoting NO2ID on their tour (see <a href="http://www.kulashaker.co.uk/">http://www.kulashaker.co.uk/</a> ) and we have stalls manned by volunteers at most of the following gigs: <p /><br/><br/><ul><li>27/01/08 - Parr Hall, Warrington</li><li>28/01/08 - Moshulu, Aberdeen</li><li>29/01/08 - Fat Sams, Dundee</li><li> 30/01/08 - Liquid Rooms, Edinburgh</li><li>04/02/08 - Exeter, Lemon Grove</li><li>05/02/08 - Bristol, Anson Rooms</li><li>06/02/08 - Waterfront, Norwich</li><li>08/02/08 - Shepherds Bush Empire, London</li><li>09/02/08 - Carling Academy 2, Birmingham </li></ul><br/>
         
         
-If you would like to help out on one of the stalls, then contact Matty Mitford, <a href="mailto:local.groups@no2id.net">local.groups@no2id.net </a>or the relevant <a href="http://www.no2id.net/localGroups/index.php">NO2ID local group</a>.          
+If you would like to help out on one of the stalls, then contact Matty Mitford, <a href="mailto:local.groups@no2id.net">local.groups@no2id.net </a>or the relevant <a href="https://www.no2id.net/localGroups/index.php">NO2ID local group</a>.          
 <hr/><h2><a name="173"></a>Sat, 19th Jan 2008 — Bradford NO2ID meeting</h2>
 eventID:173
         
@@ -1038,7 +1038,7 @@ hoping to enlist the leader of another North London group to come along and give
 tips about what to expect when campaigning locally.
         
         
-<br/>Organised by Matty Mitford: events@no2id.net<br/>You can join the Camden NO2ID email list at: <a href="../mailman/listinfo/no2id.camden">http://www.no2id.net/mailman/listinfo/no2id.camden</a>            
+<br/>Organised by Matty Mitford: events@no2id.net<br/>You can join the Camden NO2ID email list at: <a href="../mailman/listinfo/no2id.camden">https://www.no2id.net/mailman/listinfo/no2id.camden</a>            
 <hr/><h2><a name="153"></a>Sat, 8th Sep 2007 — Cambridge NO2ID - Cherry Hinton festival</h2>
 eventID:153
 <br/>On Saturday 8th September Cambridge NO2ID will have a stall at the Cherry Hinton Festival:
@@ -1240,7 +1240,7 @@ eventID:136
 eventID:140
         
 <div align="left">Highbury NO2ID Meeting
-(**NEW VENUE**)<br /><br />When: Monday, 14th May, 7pm<br /><br />Where: The Alwyne Castle - 83 St Pauls Road, N1 2LY (note change from previous announcement)</div><div align="left">map:<br /><a href="http://maps.google.co.uk/maps&#8204;q=N1+2LY&spn=0.005,0.02&hl=en">http://maps.google.co.uk/maps&#8204;q=N1+2LY&spn=0.005,0.02&hl=en</a><br /><br />What better place to meet on a sunny evening than in a lovely beer garden&#8204;<br /><br />An informal meeting about forthcoming events and ways to highlight the campaign in Highbury and Islington.<br /><br />More details from Caroline Day: highbury@no2id.net<br />Or join the Highbury discussion list: <a href="http://www.no2id.net/mailman/listinfo/no2id.highbury">http://www.no2id.net/mailman/listinfo/no2id.highbury</a></div><br/>
+(**NEW VENUE**)<br /><br />When: Monday, 14th May, 7pm<br /><br />Where: The Alwyne Castle - 83 St Pauls Road, N1 2LY (note change from previous announcement)</div><div align="left">map:<br /><a href="http://maps.google.co.uk/maps&#8204;q=N1+2LY&spn=0.005,0.02&hl=en">http://maps.google.co.uk/maps&#8204;q=N1+2LY&spn=0.005,0.02&hl=en</a><br /><br />What better place to meet on a sunny evening than in a lovely beer garden&#8204;<br /><br />An informal meeting about forthcoming events and ways to highlight the campaign in Highbury and Islington.<br /><br />More details from Caroline Day: highbury@no2id.net<br />Or join the Highbury discussion list: <a href="https://www.no2id.net/mailman/listinfo/no2id.highbury">https://www.no2id.net/mailman/listinfo/no2id.highbury</a></div><br/>
         
         
         
@@ -1461,7 +1461,7 @@ space is limited, so please RSVP to Adam McGreggor
 <hr/><h2><a name="125"></a>Fri, 19th Jan 2007 — Local group planning meetings</h2>
 eventID:125
         
-<br/>Throughout January and February - and indeed, through the rest of the year - NO2ID local groups across the UK will be holding local volunteers' planning meetings. For more details, and to see when and where there is a meeting near you, we recommend you check out <a title="Upcoming NO2ID events" href="http://forum.no2id.net/viewforum.php&#8204;f=4">the Events section of our forums</a>, subscribe to and read <a title="Subscribe to newsletter" href="http://www.no2id.net/getInvolved/support.php">our regular e-mail neswsletter</a>, or get in touch directly with <a title="NO2ID local groups" href="http://www.no2id.net/localGroups/index.php">your nearest group</a>.
+<br/>Throughout January and February - and indeed, through the rest of the year - NO2ID local groups across the UK will be holding local volunteers' planning meetings. For more details, and to see when and where there is a meeting near you, we recommend you check out <a title="Upcoming NO2ID events" href="http://forum.no2id.net/viewforum.php&#8204;f=4">the Events section of our forums</a>, subscribe to and read <a title="Subscribe to newsletter" href="https://www.no2id.net/getInvolved/support.php">our regular e-mail neswsletter</a>, or get in touch directly with <a title="NO2ID local groups" href="https://www.no2id.net/localGroups/index.php">your nearest group</a>.
         
         
 <br/>These meetings are usually pretty informal, held in a pub or community venue, and are a great way to get involved with other ID opponents in your area.            
@@ -1979,7 +1979,7 @@ the NO2ID campaign. He says:
         
 <br/> "I am walking the Pennine Way this year in aid of NO2ID,
 for this year may be the last in which I can traverse the spine of
-this beautiful free land and truly be on my own." <br/> You can follow Bob's progress and make a donation here: <a href="http://www.no2id.net/walkfree.php">http://www.no2id.net/walkfree.php</a>               
+this beautiful free land and truly be on my own." <br/> You can follow Bob's progress and make a donation here: <a href="https://www.no2id.net/walkfree.php">https://www.no2id.net/walkfree.php</a>               
         
 <hr/><h2><a name="64"></a>Wed, 15th Mar 2006 — HOME OFFICE WATCH</h2>
 eventID:64
@@ -2029,7 +2029,7 @@ eventID:70
 <br/>NO2ID and Liberty will be holding an emergency lobby of Parliament on 13th February 2006, when the Identity Cards Bill returns to the Commons for consideration of Lords' amendments.<br /><br />The lobby will take place from 12 noon until 1:00pm on the sundial in Old Palace Yard. This is opposite the St Stephen's Gate entrance to the Houses of Parliament [location marked 'H' on <a href="http://www.parliament.uk/commons/lib/faxmap.pdf">this map</a>]
         
         
-<br/>This will be your last chance to make a visible protest against the Bill before it goes into Parliamentary 'ping-pong'. As always, we shall be laying on some props but please do bring your own banners and placards - the bigger and clearer the better.<br/>To get an idea of numbers, we'd appreciate an RSVP. Please send an e-mail to <a href="mailto:events@no2id.net&#8204;Subject=ID Bill protest">events@no2id.net</a> or fill in the form <a href="http://www.no2id.net/events/parlprotest.php">[click here]</a> to let us know if you can definitely make it.          
+<br/>This will be your last chance to make a visible protest against the Bill before it goes into Parliamentary 'ping-pong'. As always, we shall be laying on some props but please do bring your own banners and placards - the bigger and clearer the better.<br/>To get an idea of numbers, we'd appreciate an RSVP. Please send an e-mail to <a href="mailto:events@no2id.net&#8204;Subject=ID Bill protest">events@no2id.net</a> or fill in the form <a href="https://www.no2id.net/events/parlprotest.php">[click here]</a> to let us know if you can definitely make it.          
         
         
         
@@ -2358,7 +2358,7 @@ eventID:38
 eventID:36
         
         
-Local groups and supporters across the UK are encouraged to get out onto the streets, hold stalls and visit events to collect as many petition signatures as possible this weekend - and send them in to the NO2ID office (details on the <a href="http://www.no2id.net/downloads/forms/NO2ID%20Petition.pdf">petition form</a>) in time for the Second Reading of the ID cards Bill.
+Local groups and supporters across the UK are encouraged to get out onto the streets, hold stalls and visit events to collect as many petition signatures as possible this weekend - and send them in to the NO2ID office (details on the <a href="https://www.no2id.net/downloads/forms/NO2ID%20Petition.pdf">petition form</a>) in time for the Second Reading of the ID cards Bill.
         
         
         
@@ -2438,7 +2438,7 @@ eventID:25
         
         
 <br/>To celebrate this technical victory, NO2ID will be meeting in the <a href="http://www.beerintheevening.com/pubs/show.shtml/6987/Blue_Posts/Fitzrovia">Blue Posts pub
-in London's Fitzrovia district</a> from 7pm on 7th April 2005 for a celebration, discussion of what we have achieved so far, and unfortunately ponder on what to do when the damn thing most likely comes back in the new parliament. <br/> To help with planning, could you please indicate on <a href="http://www.no2id.net/events/prorog2005.php">this form</a> if you'll be joining us.             
+in London's Fitzrovia district</a> from 7pm on 7th April 2005 for a celebration, discussion of what we have achieved so far, and unfortunately ponder on what to do when the damn thing most likely comes back in the new parliament. <br/> To help with planning, could you please indicate on <a href="https://www.no2id.net/events/prorog2005.php">this form</a> if you'll be joining us.             
 <hr/><h2><a name="22"></a>Sun, 3rd Apr 2005 — Southwark NO2ID Public Meeting</h2>
 eventID:22
         
@@ -2486,7 +2486,7 @@ eventID:19
 <br/>Organised by:
 <br/>NO2ID Brighton and Hove<br />
 "Against ID cards and the database state"<br />
-<a href="http://www.no2id.net/">www.no2id.net</a>
+<a href="https://www.no2id.net/">www.no2id.net</a>
 <br /><a href="mailto:brighton@no2id.net">brighton@no2id.net</a>
 <br/>&
 <br/>Brighton Defy-ID<br />
@@ -2583,12 +2583,12 @@ eventID:8
 Cambridge CB2 3NH</address>
 <br/><a href="http://www.multimap.com/map/browse.cgi&#8204;client=public&X=545000&Y=258500&gride=544963&gridn=258413&scale=5000&coordsys=gb&db=pc&lang=&inmap=&table=&ovtype=&localinfosel=&local=&kw=&srec=0&mapsize=big&db=pc&rt=">Location Map</a>
 <br/>Click on the thumbnail images to download posters
-<a href="http://www.no2id.net/events/cambridge/poster1h.pdf"><img src="http://www.no2id.net/events/cambridge/poster1h.jpg"
+<a href="https://www.no2id.net/events/cambridge/poster1h.pdf"><img src="https://www.no2id.net/events/cambridge/poster1h.jpg"
 alt="Cambridge No2ID meeting poster: Churchill" /></a>
-<a href="http://www.no2id.net/events/cambridge/poster3h.pdf"><img src="http://www.no2id.net/events/cambridge/poster3h.jpg" alt="Cambridge No2ID meeting poster: Jackson" /></a>
-<a href="http://www.no2id.net/events/cambridge/poster4h.pdf"><img src="http://www.no2id.net/events/cambridge/poster4h.jpg" alt="Cambridge No2ID meeting poster: Thatcher" /></a>
-<a href="http://www.no2id.net/events/cambridge/poster5h.pdf"><img src="http://www.no2id.net/events/cambridge/poster5h.jpg" alt="Cambridge No2ID meeting poster: Blair" /></a>
-<a href="http://www.no2id.net/events/cambridge/poster6h.pdf"><img src="http://www.no2id.net/events/cambridge/poster6h.jpg" alt="Cambridge No2ID meeting poster: doctor" /></a>
+<a href="https://www.no2id.net/events/cambridge/poster3h.pdf"><img src="https://www.no2id.net/events/cambridge/poster3h.jpg" alt="Cambridge No2ID meeting poster: Jackson" /></a>
+<a href="https://www.no2id.net/events/cambridge/poster4h.pdf"><img src="https://www.no2id.net/events/cambridge/poster4h.jpg" alt="Cambridge No2ID meeting poster: Thatcher" /></a>
+<a href="https://www.no2id.net/events/cambridge/poster5h.pdf"><img src="https://www.no2id.net/events/cambridge/poster5h.jpg" alt="Cambridge No2ID meeting poster: Blair" /></a>
+<a href="https://www.no2id.net/events/cambridge/poster6h.pdf"><img src="https://www.no2id.net/events/cambridge/poster6h.jpg" alt="Cambridge No2ID meeting poster: doctor" /></a>
 <hr/><h2><a name="13"></a>Tue, 25th Jan 2005 — NO2ID At AGM of Bradford Resource Group</h2>
 eventID:13
 NO2ID National Co-ordinator Phil Booth will be addressing the AGM of the Bradford Resource Group. Phil will also be visiting local groups and representatives of other anti-ID organisations in Manchester and Sheffield in the early part of that week.
